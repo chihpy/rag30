@@ -30,8 +30,10 @@ PY
 
 ### day1: 先想法辦取得context
 - 從youtube取得txt
+    - `python get_transcription.py`
 - 從youtube取得mp3->由whisper取得txt
-
+    - `python yt_download.py`
+    - `python whisper_audio2txt.py`
 
 # reference:
 ## github

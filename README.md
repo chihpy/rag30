@@ -51,11 +51,15 @@ PY
     - `python whisper_audio2txt.py`
         - data/hung.json
 ### day2: 從 context 生成 question
-- cd to day2/day2
+- cd to days/day2
 - 從context生成question
     - `python context2question.py`
         - data/question_from_context/questions.json
-    
+### day3: llama-index2langfuse
+- cd to days/day3
+- 把llama-index的query內容傳到langfuse
+    - `python llamaindex2langfuse.py`
+
 # reference:
 ## github
 - [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api)

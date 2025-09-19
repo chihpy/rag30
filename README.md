@@ -43,23 +43,25 @@ PY
 
 ## Topic 1: (context, question, answer), gen from context
 
-### day1: 先想法辦取得context
+### day1: 先想法辦取得 context
 - cd to days/day1
-- 從youtube取得txt
+- 從 youtube 取得 txt
     - `python get_transcription.py`
         - data/lee.txt
-- 從youtube取得mp3->由whisper取得txt
+- 從 youtube 取得 mp3 -> 由 whisper 取得 txt
     - `python yt_download.py`
     - `python whisper_audio2txt.py`
         - data/hung.json
+
 ### day2: 從 context 生成 question
 - cd to days/day2
-- 從context生成question
+- 從 context 生成 question
     - `python context2question.py`
         - data/question_from_context/questions.json
+
 ### day3: llama-index2langfuse
 - cd to days/day3
-- 把llama-index的query內容傳到langfuse
+- 把 LlamaIndex 的 query 內容傳到 langfuse
     - `python llamaindex2langfuse.py`
 
 ### day4: span and download data from langfuse
@@ -85,7 +87,7 @@ PY
 - download data from langfuse
     - `python langfuse2json`
         - days/day4/RetrieverQueryEngine_example.json
-        
+
 # reference:
 ## github
 - [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api)

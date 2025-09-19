@@ -3,6 +3,7 @@
 ## env
 ```
 sudo apt install -y ffmpeg
+sudo apt-get install graphviz
 conda create -n rag30 python==3.12
 
 pip install ipykernel
@@ -41,6 +42,7 @@ PY
 1. (context, question, answer), gen from context
 
 ## Topic 1: (context, question, answer), gen from context
+
 ### day1: 先想法辦取得context
 - cd to days/day1
 - 從youtube取得txt
@@ -60,6 +62,30 @@ PY
 - 把llama-index的query內容傳到langfuse
     - `python llamaindex2langfuse.py`
 
+### day4: span and download data from langfuse
+- cd to days/day4
+- simple_span_handler
+    - `python span.py`
+        ```
+        RetrieverQueryEngine.query-9f66c84b-abff-4faf-807a-f6b2ab21b8c2 (9.38712)
+        └── RetrieverQueryEngine._query-14f77a30-b42f-4b36-b619-2d36c778af3c (9.386738)
+            ├── VectorIndexRetriever.retrieve-40ebf86a-2070-4241-9fd1-6f8f68124d8e (1.460433)
+            │   └── VectorIndexRetriever._retrieve-b58dc6e1-00ea-4b1b-86c9-e5996bdd5993 (1.459804)
+            │       └── OpenAIEmbedding.get_query_embedding-9fdcc302-ace5-4ad5-916a-69d11afb7186 (1.458764)
+            │           └── OpenAIEmbedding._get_query_embedding-f441b1e0-9f80-4807-a43c-07568193d6f0 (1.45732)
+            └── CompactAndRefine.synthesize-aa3330ca-fee4-47b1-b8cc-a767f00a0560 (7.924199)
+                └── CompactAndRefine.get_response-00f880d2-3d57-4aed-b9f5-20c79c0defeb (7.922752)
+                    ├── TokenTextSplitter.split_text-e8e06bca-7f35-47a4-852b-b77bc2f02568 (0.000261)
+                    └── CompactAndRefine.get_response-750cc97f-63b7-4afc-b0d8-0fbd720b3522 (7.921415)
+                        ├── TokenTextSplitter.split_text-864a7fb0-153b-407e-9fe5-0e7388774ad7 (0.000279)
+                        └── DefaultRefineProgram.__call__-2d92b46c-995a-4ba0-96de-727fd6a5ce9c (7.920315)
+                            └── OpenAI.predict-411c9a29-3c1d-4f0a-9e75-b94310fe8f37 (7.919715)
+                                └── OpenAI.chat-2bb40156-2dfa-4f16-99e4-81481c9f670b (7.919129)
+        ```
+- download data from langfuse
+    - `python langfuse2json`
+        - days/day4/RetrieverQueryEngine_example.json
+        
 # reference:
 ## github
 - [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api)

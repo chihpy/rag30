@@ -1,0 +1,40 @@
+{
+ "chat_parsed": {
+  "start_time": "2025-09-20 00:40:52 CST",
+  "end_time": "2025-09-20 00:41:00 CST",
+  "model_name": "gpt-5-mini",
+  "num_message": 2,
+  "messages": [
+   {
+    "role": "system",
+    "content": "You are an expert Q&A system that is trusted around the world.\nAlways answer the query using the provided context information, and not prior knowledge.\nSome rules to follow:\n1. Never directly reference the given context in your answer.\n2. Avoid statements like 'Based on the context, ...' or 'The context information ...' or anything along those lines."
+   },
+   {
+    "role": "user",
+    "content": "Context information is below.\n---------------------\nThe instrumentation module (available in llama-index v0.10.20 and later) is meant to replace the legacy callbacks module.\n\nLangfuse is an open source LLM engineering platform to help teams collaboratively debug, analyze and iterate on their LLM Applications. With the Langfuse integration, you can track and monitor performance, traces, and metrics of your LlamaIndex application.Detailed traces of the context augmentation and the LLM querying processes are captured and can be inspected directly in the Langfuse UI.\n---------------------\nGiven the context information and not prior knowledge, answer the query.\nQuery: 什麼是 LlamaIndex 的instrumentation module?\nAnswer: "
+   }
+  ]
+ },
+ "retrieve_parsed": {
+  "start_time": "2025-09-20 00:40:50 CST",
+  "end_time": "2025-09-20 00:40:52 CST",
+  "query": "什麼是 LlamaIndex 的instrumentation module?",
+  "output_nodes": [
+   "<NodeWithScore(node=TextNode(id_=6e5e50d1-c47d-417b-b33c-5894a81705cf), score=0.8391639177652019)>",
+   "<NodeWithScore(node=TextNode(id_=7c6a7f0a-ec3c-4b42-a463-d2106cb5306d), score=0.7551779787026073)>"
+  ],
+  "num_doc": 2,
+  "docs": [
+   {
+    "id": "6e5e50d1-c47d-417b-b33c-5894a81705cf",
+    "content": "The instrumentation module (available in llama-index v0.10.20 and later) is meant to replace the legacy callbacks module.",
+    "score": "0.8391639177652019"
+   },
+   {
+    "id": "7c6a7f0a-ec3c-4b42-a463-d2106cb5306d",
+    "content": "Langfuse is an open source LLM engineering platform to help teams collaboratively debug, analyze and iterate on their LLM Applications. With the Langfuse integration, you can track and monitor performance, traces, and metrics of your LlamaIndex application.Detailed traces of the context augmentation and the LLM querying processes are captured and can be inspected directly in the Langfuse UI.",
+    "score": "0.7551779787026073"
+   }
+  ]
+ }
+}

@@ -68,7 +68,7 @@ class ReActAgent(Workflow):
         self.formatter = ReActChatFormatter.from_defaults(
             context=extra_context or ""
         )
-        self.streaming = False
+        self.streaming = streaming
         self.output_parser = ReActOutputParser()
 
     @step
@@ -147,7 +147,7 @@ class ReActAgent(Workflow):
                 return StopEvent(
                     result={
                         "response": reasoning_step.response,
-                        "sources": [sources],
+                        "sources": sources,
                         "reasoning": current_reasoning,
                     }
                 )

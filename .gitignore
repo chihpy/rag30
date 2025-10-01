@@ -5,3 +5,6 @@ experiments/*
 notes/*
 .env
 notebooks/questions/*
+*lib*
+notebooks/data/*
+notebooks/parsed_txt/*

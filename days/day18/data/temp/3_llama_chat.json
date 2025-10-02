@@ -1,0 +1,2402 @@
+[
+ {
+  "qid_source": 1,
+  "qset_txt": "1.常見針灸配穴法中，所指的「四關穴」，為下列何穴位之組合？\n \nA.上星、日月\nB.合谷、太衝\nC.內關、外關\nD.上關、下關",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:12.319634632Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4030284384,
+   "load_duration": 24253572,
+   "prompt_eval_count": 1260,
+   "prompt_eval_duration": 391713275,
+   "eval_count": 119,
+   "eval_duration": 3613294930,
+   "usage": {
+    "prompt_tokens": 1260,
+    "completion_tokens": 119,
+    "total_tokens": 1379
+   }
+  },
+  "response": {
+   "A": "膀胱經",
+   "B": "膽經",
+   "C": "胃經",
+   "D": "肝經",
+   "qid": 1,
+   "stem": "常見針灸配穴法中，所指的「四關穴」，為下列何穴位之組合？\n\nA.上星、日月\nB.合谷、太衝\nC.內關、外關\nD.上關、下關"
+  },
+  "py_times": 1.7432334423065186
+ },
+ {
+  "qid_source": 2,
+  "qset_txt": "2.依《靈樞．經脈》記載，「其直者，從巔入絡腦，還出別下項，循肩膊內，挾脊抵腰中」，指下列\n何經的循行內容？\n \nA.膀胱經\nB.膽經\nC.胃經\nD.肝經",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:16.400357352Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4077613497,
+   "load_duration": 21907014,
+   "prompt_eval_count": 1282,
+   "prompt_eval_duration": 20252177,
+   "eval_count": 141,
+   "eval_duration": 4034428202,
+   "usage": {
+    "prompt_tokens": 1282,
+    "completion_tokens": 141,
+    "total_tokens": 1423
+   }
+  },
+  "response": {
+   "A": "膀胱經",
+   "B": "膽經",
+   "C": "胃經",
+   "D": "肝經",
+   "qid": 2,
+   "stem": "依《靈樞．經脈》記載，「其直者，從巔入絡腦，還出別下項，循肩膊內，挾脊抵腰中」，指下列\n何經的循行內容？\n\nA.膀胱經\nB.膽經\nC.胃經\nD.肝經"
+  },
+  "py_times": 4.080580949783325
+ },
+ {
+  "qid_source": 3,
+  "qset_txt": "3.依《靈樞．經脈》所記載：「是主筋所生病者，痔、瘧、狂、癲疾、頭顖、項痛，目黃、淚出，鼽\n衄，項、背、腰、尻、膕、腨、腳皆痛，小趾不用」，指何經的病證內容？\n \nA.膀胱經\nB.膽經\nC.三焦經\nD.脾經",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:21.569568631Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 5166188022,
+   "load_duration": 22248164,
+   "prompt_eval_count": 1313,
+   "prompt_eval_duration": 22208132,
+   "eval_count": 177,
+   "eval_duration": 5120233174,
+   "usage": {
+    "prompt_tokens": 1313,
+    "completion_tokens": 177,
+    "total_tokens": 1490
+   }
+  },
+  "response": {
+   "A": "膀胱經",
+   "B": "膽經",
+   "C": "三焦經",
+   "D": "脾經",
+   "qid": 3,
+   "stem": "依《靈樞．經脈》所記載：\n\"是主筋所生病者，痔、瘧、狂、癲疾、頭顖、項痛，目黃、淚出，鼽衄，項、背、腰、尻、膕、腨、腳皆痛，小趾不用\",\n指何經的病證內容？\n\nA. 膀胱經\nB. 膽經\nC. 三焦經\nD. 脾經"
+  },
+  "py_times": 5.168907403945923
+ },
+ {
+  "qid_source": 4,
+  "qset_txt": "4.有關腧穴之國際譯名，外丘之編號為何？\n \nA.GB33\nB.GB34\nC.GB35\nD.GB36",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:24.220137408Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2647630586,
+   "load_duration": 23862099,
+   "prompt_eval_count": 1238,
+   "prompt_eval_duration": 16216792,
+   "eval_count": 91,
+   "eval_duration": 2606120860,
+   "usage": {
+    "prompt_tokens": 1238,
+    "completion_tokens": 91,
+    "total_tokens": 1329
+   }
+  },
+  "response": {
+   "A": "GB33",
+   "B": "GB34",
+   "C": "GB35",
+   "D": "GB36",
+   "qid": 4,
+   "stem": "有關腧穴之國際譯名，外丘之編號為何？\n\nA.GB33\nB.GB34\nC.GB35\nD.GB36"
+  },
+  "py_times": 2.6513559818267822
+ },
+ {
+  "qid_source": 5,
+  "qset_txt": "5.下列何者為陰維脈之郄穴？\n A.交信\nB.築賓\n\n\nC.府舍\nD.腹哀",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:26.864090519Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2640164172,
+   "load_duration": 23880768,
+   "prompt_eval_count": 1234,
+   "prompt_eval_duration": 14373534,
+   "eval_count": 90,
+   "eval_duration": 2600684008,
+   "usage": {
+    "prompt_tokens": 1234,
+    "completion_tokens": 90,
+    "total_tokens": 1324
+   }
+  },
+  "response": {
+   "A": "交信",
+   "B": "築賓",
+   "C": "府舍",
+   "D": "腹哀",
+   "qid": 5,
+   "stem": "下列何者為陰維脈之郄穴？\n A.交信\nB.築賓\n\nC.府舍\nD.腹哀"
+  },
+  "py_times": 2.642622232437134
+ },
+ {
+  "qid_source": 6,
+  "qset_txt": "6.下列何者為足太陰脾經之絡穴？\n \nA.地機\nB.漏谷\nC.公孫\nD.太白",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:29.536432812Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2669539197,
+   "load_duration": 20808172,
+   "prompt_eval_count": 1235,
+   "prompt_eval_duration": 13191998,
+   "eval_count": 92,
+   "eval_duration": 2634483667,
+   "usage": {
+    "prompt_tokens": 1235,
+    "completion_tokens": 92,
+    "total_tokens": 1327
+   }
+  },
+  "response": {
+   "A": "地機",
+   "B": "漏谷",
+   "C": "公孫",
+   "D": "太白",
+   "qid": 6,
+   "stem": "6.\n下列何者為足太陰脾經之絡穴？\n\nA.地機\nB.漏谷\nC.公孫\nD.太白"
+  },
+  "py_times": 2.6719870567321777
+ },
+ {
+  "qid_source": 7,
+  "qset_txt": "7.依《難經．六十八難》，下列何穴主心下滿？\n \nA.前谷\nB.液門\nC.湧泉\nD.跗陽",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:32.335945133Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2796857290,
+   "load_duration": 24235381,
+   "prompt_eval_count": 1239,
+   "prompt_eval_duration": 16919714,
+   "eval_count": 96,
+   "eval_duration": 2754437324,
+   "usage": {
+    "prompt_tokens": 1239,
+    "completion_tokens": 96,
+    "total_tokens": 1335
+   }
+  },
+  "response": {
+   "A": "前谷",
+   "B": "液門",
+   "C": "湧泉",
+   "D": "跗陽",
+   "qid": 7,
+   "stem": "7.依《難經．六十八難》，下列何穴主心下滿？\n\nA.前谷\nB.液門\nC.湧泉\nD.跗陽"
+  },
+  "py_times": 2.799112558364868
+ },
+ {
+  "qid_source": 8,
+  "qset_txt": "8.有關足太陰脾經的重要腧穴，下列敘述何者正確？\n \nA.井穴為大都穴\nB.俞穴為太白穴\nC.郄穴為漏谷穴\nD.絡穴為地機穴",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:36.117166725Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3778776233,
+   "load_duration": 23758400,
+   "prompt_eval_count": 1261,
+   "prompt_eval_duration": 18512904,
+   "eval_count": 132,
+   "eval_duration": 3735287373,
+   "usage": {
+    "prompt_tokens": 1261,
+    "completion_tokens": 132,
+    "total_tokens": 1393
+   }
+  },
+  "response": {
+   "A": "井穴為大都穴",
+   "B": "俞穴為太白穴",
+   "C": "郄穴為漏谷穴",
+   "D": "絡穴為地機穴",
+   "qid": 8,
+   "stem": "有關足太陰脾經的重要腧穴，下列敘述何者正確？\n\nA.井穴為大都穴\nB.俞穴為太白穴\nC.郄穴為漏谷穴\nD.絡穴為地機穴"
+  },
+  "py_times": 3.781040668487549
+ },
+ {
+  "qid_source": 9,
+  "qset_txt": "9.下列穴位屬三焦經與膽經的交會穴共有幾個？①臑會　②顴髎　③秉風　④聽宮　⑤耳門\n \nA.2\nB.3\nC.4\nD.5",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:38.81427967Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2694528096,
+   "load_duration": 22043885,
+   "prompt_eval_count": 1262,
+   "prompt_eval_duration": 15850622,
+   "eval_count": 94,
+   "eval_duration": 2655646446,
+   "usage": {
+    "prompt_tokens": 1262,
+    "completion_tokens": 94,
+    "total_tokens": 1356
+   }
+  },
+  "response": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "qid": 9,
+   "stem": "下列穴位屬三焦經與膽經的交會穴共有幾個？①臑會　②顴髎　③秉風　④聽宮　⑤耳門\n\n"
+  },
+  "py_times": 2.6970956325531006
+ },
+ {
+  "qid_source": 10,
+  "qset_txt": "10.有關手少陰心經的「通里穴」，下列敘述共幾項正確？①手少陰心經的郄穴　②馬丹陽天星十二穴\n之一　③距離靈道穴五分　④配內關，治心絞痛\n \nA.1\nB.2\nC.3\nD.4",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:39.771783782Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3243289044,
+   "load_duration": 22559923,
+   "prompt_eval_count": 1281,
+   "prompt_eval_duration": 19265494,
+   "eval_count": 112,
+   "eval_duration": 3200332734,
+   "usage": {
+    "prompt_tokens": 1281,
+    "completion_tokens": 112,
+    "total_tokens": 1393
+   }
+  },
+  "response": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "qid": 10,
+   "stem": "有關手少陰心經的「通里穴」，下列敘述共幾項正確？①手少陰心經的郄穴　②馬丹陽天星十二穴之一　③距離靈道穴五分　④配內關，治心絞痛\n\n"
+  },
+  "py_times": 0.9571216106414795
+ },
+ {
+  "qid_source": 11,
+  "qset_txt": "11.下列何穴較不適用於治療落枕？\n A.後谿\nB.外關\n\n\nC.通里\nD.肩中俞",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:42.407890784Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2632873841,
+   "load_duration": 22285921,
+   "prompt_eval_count": 1235,
+   "prompt_eval_duration": 16105524,
+   "eval_count": 92,
+   "eval_duration": 2593237116,
+   "usage": {
+    "prompt_tokens": 1235,
+    "completion_tokens": 92,
+    "total_tokens": 1327
+   }
+  },
+  "response": {
+   "A": "後谿",
+   "B": "外關",
+   "C": "通里",
+   "D": "肩中俞",
+   "qid": 11,
+   "stem": "下列何穴較不適用於治療落枕？\n A.後谿\nB.外關\n\nC.通里\nD.肩中俞"
+  },
+  "py_times": 2.6359124183654785
+ },
+ {
+  "qid_source": 12,
+  "qset_txt": "12.下列何穴最適合治療瘰癧？\n \nA.小海\nB.尺澤\nC.曲澤\nD.天井",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:44.893109521Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2482355849,
+   "load_duration": 23255075,
+   "prompt_eval_count": 1233,
+   "prompt_eval_duration": 15473465,
+   "eval_count": 86,
+   "eval_duration": 2442393220,
+   "usage": {
+    "prompt_tokens": 1233,
+    "completion_tokens": 86,
+    "total_tokens": 1319
+   }
+  },
+  "response": {
+   "A": "小海",
+   "B": "尺澤",
+   "C": "曲澤",
+   "D": "天井",
+   "qid": 12,
+   "stem": "下列何穴最適合治療瘰癧？\n\nA.小海\nB.尺澤\nC.曲澤\nD.天井"
+  },
+  "py_times": 2.48531174659729
+ },
+ {
+  "qid_source": 13,
+  "qset_txt": "13.肝經的五腧穴為下列那一組？\n \nA.中都、太衝、行間、曲泉、大敦\nB.中封、行間、太衝、大敦、曲泉\nC.大敦、蠡溝、中封、行間、太衝\nD.太衝、曲泉、大敦、陰包、行間",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:50.173719121Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 5277765225,
+   "load_duration": 25536602,
+   "prompt_eval_count": 1281,
+   "prompt_eval_duration": 18259392,
+   "eval_count": 184,
+   "eval_duration": 5232511472,
+   "usage": {
+    "prompt_tokens": 1281,
+    "completion_tokens": 184,
+    "total_tokens": 1465
+   }
+  },
+  "response": {
+   "A": "中都、太衝、行間、曲泉、大敦",
+   "B": "中封、行間、太衝、大敦、曲泉",
+   "C": "大敦、蠡溝、中封、行間、太衝",
+   "D": "太衝、曲泉、大敦、陰包、行間",
+   "qid": 13,
+   "stem": "\n13.肝經的五腧穴為下列那一組？\n\nA.中都、太衝、行間、曲泉、大敦\nB.中封、行間、太衝、大敦、曲泉\nC.大敦、蠡溝、中封、行間、太衝\nD.太衝、曲泉、大敦、陰包、行間"
+  },
+  "py_times": 5.280013561248779
+ },
+ {
+  "qid_source": 14,
+  "qset_txt": "14.有關足陽明胃經的五腧穴，下列敘述何者錯誤？\n \nA.合穴為足三里\nB.俞穴為解谿\nC.滎穴為內庭\nD.井穴為厲兌",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:00:53.949450603Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3773131644,
+   "load_duration": 22826275,
+   "prompt_eval_count": 1261,
+   "prompt_eval_duration": 15687422,
+   "eval_count": 132,
+   "eval_duration": 3733239865,
+   "usage": {
+    "prompt_tokens": 1261,
+    "completion_tokens": 132,
+    "total_tokens": 1393
+   }
+  },
+  "response": {
+   "A": "合穴為足三里",
+   "B": "俞穴為解谿",
+   "C": "滎穴為內庭",
+   "D": "井穴為厲兌",
+   "qid": 14,
+   "stem": "有關足陽明胃經的五腧穴，下列敘述何者錯誤？\n\nA.合穴為足三里\nB.俞穴為解谿\nC.滎穴為內庭\nD.井穴為厲兌"
+  },
+  "py_times": 3.7756991386413574
+ },
+ {
+  "qid_source": 15,
+  "qset_txt": "15.有關商丘穴之敘述，下列何者錯誤？\n \nA.主治婦人乳疾\nB.主治胃脘痛\nC.在足內踝骨下微前陷中，當足腕之橫紋端，取穴時，將足大指翹起，其陷凹處即現\nD.從足腕中解谿穴往內側橫量八分即中封穴，從中封穴往內踝下際橫量八分，即商丘穴",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:01.553593971Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 7601252529,
+   "load_duration": 24293028,
+   "prompt_eval_count": 1321,
+   "prompt_eval_duration": 27885736,
+   "eval_count": 259,
+   "eval_duration": 7548178618,
+   "usage": {
+    "prompt_tokens": 1321,
+    "completion_tokens": 259,
+    "total_tokens": 1580
+   }
+  },
+  "response": {
+   "A": "主治婦人乳疾",
+   "B": "主治胃脘痛",
+   "C": "在足內踝骨下微前陷中，當足腕之橫紋端，取穴時，將足大指翹起，其陷凹處即現",
+   "D": "從足腕中解谿穴往內側橫量八分即中封穴，從中封穴往內踝下際橫量八分，即商丘穴",
+   "qid": 15,
+   "stem": "有關商丘穴之敘述，下列何者錯誤？\n\nA.主治婦人乳疾\nB.主治胃脘痛\nC.在足內踝骨下微前陷中，當足腕之橫紋端，取穴時，將足大指翹起，其陷凹處即現\nD.從足腕中解谿穴往內側橫量八分即中封穴，從中封穴往內踝下際橫量八分，即商丘穴"
+  },
+  "py_times": 7.604269981384277
+ },
+ {
+  "qid_source": 16,
+  "qset_txt": "16.有關本神穴的敘述，下列選項何者正確？①上入髮際一寸。從神庭外開二寸處　②曲差旁一寸五分　\n③可治頭痛，目眩等　④配百會、人中、十宣，治中風不省人事\n \nA.①②④\nB.①②③\nC.①③④\nD.②③④",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:05.485310052Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3928066670,
+   "load_duration": 24019284,
+   "prompt_eval_count": 1303,
+   "prompt_eval_duration": 21064012,
+   "eval_count": 135,
+   "eval_duration": 3881896518,
+   "usage": {
+    "prompt_tokens": 1303,
+    "completion_tokens": 135,
+    "total_tokens": 1438
+   }
+  },
+  "response": {
+   "A": "①②④",
+   "B": "①②③",
+   "C": "①③④",
+   "D": "②③④",
+   "qid": 16,
+   "stem": "有關本神穴的敘述，下列選項何者正確？\n①上入髮際一寸。從神庭外開二寸處\n②曲差旁一寸五分\n③可治頭痛，目眩等\n④配百會、人中、十宣，治中風不省人事"
+  },
+  "py_times": 3.9310483932495117
+ },
+ {
+  "qid_source": 17,
+  "qset_txt": "17.有關任脈穴位之敘述，下列何者正確？\n A.玉堂穴在膻中穴下一寸六分\nB.華蓋穴在鎖骨正中下方\n\n\nC.華蓋穴在天突穴下一寸六分\nD.天突穴可治哮喘",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:08.275529245Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 5097772939,
+   "load_duration": 22725142,
+   "prompt_eval_count": 1276,
+   "prompt_eval_duration": 19744491,
+   "eval_count": 177,
+   "eval_duration": 5054350669,
+   "usage": {
+    "prompt_tokens": 1276,
+    "completion_tokens": 177,
+    "total_tokens": 1453
+   }
+  },
+  "response": {
+   "A": "A.玉堂穴在膻中穴下一寸六分",
+   "B": "B.華蓋穴在鎖骨正中下方",
+   "C": "C.華蓋穴在天突穴下一寸六分",
+   "D": "D.天突穴可治哮喘",
+   "qid": 17,
+   "stem": "有關任脈穴位之敘述，下列何者正確？\n A.玉堂穴在膻中穴下一寸六分\nB.華蓋穴在鎖骨正中下方\n\nC.華蓋穴在天突穴下一寸六分\nD.天突穴可治哮喘"
+  },
+  "py_times": 2.790160655975342
+ },
+ {
+  "qid_source": 18,
+  "qset_txt": "18.大椎穴位於下列何處？\n \nA.第1頸椎下\nB.第6頸椎下\nC.第7頸椎下\nD.第1胸椎下",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:11.745956219Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3467338084,
+   "load_duration": 21404607,
+   "prompt_eval_count": 1248,
+   "prompt_eval_duration": 13884280,
+   "eval_count": 120,
+   "eval_duration": 3430700777,
+   "usage": {
+    "prompt_tokens": 1248,
+    "completion_tokens": 120,
+    "total_tokens": 1368
+   }
+  },
+  "response": {
+   "A": "第1頸椎下",
+   "B": "第6頸椎下",
+   "C": "第7頸椎下",
+   "D": "第1胸椎下",
+   "qid": 18,
+   "stem": "大椎穴位於下列何處？\n\nA.第1頸椎下\nB.第6頸椎下\nC.第7頸椎下\nD.第1胸椎下"
+  },
+  "py_times": 3.470024824142456
+ },
+ {
+  "qid_source": 19,
+  "qset_txt": "19.下列何種方式不是轉針迎隨補瀉法中的瀉法？\n \nA.捻轉角度大\nB.頻率快\nC.時間短\nD.右轉（逆時針轉）",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:15.098360744Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3349644763,
+   "load_duration": 22999317,
+   "prompt_eval_count": 1250,
+   "prompt_eval_duration": 14996639,
+   "eval_count": 116,
+   "eval_duration": 3310880226,
+   "usage": {
+    "prompt_tokens": 1250,
+    "completion_tokens": 116,
+    "total_tokens": 1366
+   }
+  },
+  "response": {
+   "A": "捻轉角度大",
+   "B": "頻率快",
+   "C": "時間短",
+   "D": "右轉（逆時針轉）",
+   "qid": 19,
+   "stem": "下列何種方式不是轉針迎隨補瀉法中的瀉法？\n\nA.捻轉角度大\nB.頻率快\nC.時間短\nD.右轉（逆時針轉）"
+  },
+  "py_times": 3.3520560264587402
+ },
+ {
+  "qid_source": 20,
+  "qset_txt": "20.下列何者是《刺灸心法要訣》的禁針穴？\n \nA.上關\nB.氣衝\nC.中府\nD.俞府",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:17.818999461Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2718053481,
+   "load_duration": 21315380,
+   "prompt_eval_count": 1240,
+   "prompt_eval_duration": 14905220,
+   "eval_count": 94,
+   "eval_duration": 2680499085,
+   "usage": {
+    "prompt_tokens": 1240,
+    "completion_tokens": 94,
+    "total_tokens": 1334
+   }
+  },
+  "response": {
+   "A": "上關",
+   "B": "氣衝",
+   "C": "中府",
+   "D": "俞府",
+   "qid": 20,
+   "stem": "下列何者是《刺灸心法要訣》的禁針穴？\n\nA.上關\nB.氣衝\nC.中府\nD.俞府"
+  },
+  "py_times": 2.720531940460205
+ },
+ {
+  "qid_source": 21,
+  "qset_txt": "21.依《靈樞．九針十二原》，有關鈹針的敘述，下列何者錯誤？\n \nA.長四寸\nB.廣五分\nC.末如劍鋒\nD.以取大膿",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:21.330962031Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3509209212,
+   "load_duration": 24641559,
+   "prompt_eval_count": 1258,
+   "prompt_eval_duration": 16051087,
+   "eval_count": 120,
+   "eval_duration": 3467374042,
+   "usage": {
+    "prompt_tokens": 1258,
+    "completion_tokens": 120,
+    "total_tokens": 1378
+   }
+  },
+  "response": {
+   "A": "長四寸",
+   "B": "廣五分",
+   "C": "末如劍鋒",
+   "D": "以取大膿",
+   "qid": 21,
+   "stem": "依《靈樞．九針十二原》，有關鈹針的敘述，下列何者錯誤？\n\nA.長四寸\nB.廣五分\nC.末如劍鋒\nD.以取大膿"
+  },
+  "py_times": 3.5117616653442383
+ },
+ {
+  "qid_source": 22,
+  "qset_txt": "22.有關「艾」之敘述，下列何者正確？\n \nA.艾的成分，揮發油占2%，主要為苦艾醇及苦艾醛\nB.春、夏之候，梢上開褐色之小花，筒狀花冠\nC.艾草於中國各地皆有出產，而臺灣所產屬於上品效果佳\nD.艾屬菊科植物，多年生草本",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:27.989807261Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6655912247,
+   "load_duration": 20949913,
+   "prompt_eval_count": 1303,
+   "prompt_eval_duration": 22341048,
+   "eval_count": 231,
+   "eval_duration": 6611371681,
+   "usage": {
+    "prompt_tokens": 1303,
+    "completion_tokens": 231,
+    "total_tokens": 1534
+   }
+  },
+  "response": {
+   "A": "A.艾的成分，揮發油占2%，主要為苦艾醇及苦艾醛",
+   "B": "B.春、夏之候，梢上開褐色之小花，筒狀花冠",
+   "C": "C.艾草於中國各地皆有出產，而臺灣所產屬於上品效果佳",
+   "D": "D.艾屬菊科植物，多年生草本",
+   "qid": 22,
+   "stem": "有關「艾」之敘述，下列何者正確？\n\nA.艾的成分，揮發油占2%，主要為苦艾醇及苦艾醛\nB.春、夏之候，梢上開褐色之小花，筒狀花冠\nC.艾草於中國各地皆有出產，而臺灣所產屬於上品效果佳\nD.艾屬菊科植物，多年生草本"
+  },
+  "py_times": 6.6585001945495605
+ },
+ {
+  "qid_source": 23,
+  "qset_txt": "23.有關艾的品質鑑定，下列何者為優質品？\n A.質細\nB.褐色\nC.含揮發油較多\n\n\nD.火力較大者",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:30.523517437Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2530798593,
+   "load_duration": 22996152,
+   "prompt_eval_count": 1244,
+   "prompt_eval_duration": 14870311,
+   "eval_count": 88,
+   "eval_duration": 2491926737,
+   "usage": {
+    "prompt_tokens": 1244,
+    "completion_tokens": 88,
+    "total_tokens": 1332
+   }
+  },
+  "response": {
+   "A": "質細",
+   "B": "褐色",
+   "C": "含揮發油較多",
+   "D": "火力較大者",
+   "qid": 23,
+   "stem": "有關艾的品質鑑定，下列何者為優質品？\n A.\nB.\nC.\nD."
+  },
+  "py_times": 2.53364634513855
+ },
+ {
+  "qid_source": 24,
+  "qset_txt": "24.臨床上的拔罐療法之濕杯術，下列何者不宜使用？\n \nA.肩膀痠痛患者 \nB.腰部扭傷患者\nC.虛弱的患者\nD.運動急性傷害的患者",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:36.397309745Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 8181343367,
+   "load_duration": 20739424,
+   "prompt_eval_count": 1258,
+   "prompt_eval_duration": 17627496,
+   "eval_count": 287,
+   "eval_duration": 8141607119,
+   "usage": {
+    "prompt_tokens": 1258,
+    "completion_tokens": 287,
+    "total_tokens": 1545
+   }
+  },
+  "response": {
+   "A": "B. 这左现分种。",
+   "B": "C. 无效的种。",
+   "C": "D. 图纳教大狀怪的种。",
+   "D": "",
+   "qid": 24,
+   "stem": "\n24.未等的気常输浦环泩怪。一代不要用可用）\n\nA. 钷医狀得怪。B. 这左现分种。C. 无效的种。D. 图纳教大狀怪的种。"
+  },
+  "py_times": 5.873976707458496
+ },
+ {
+  "qid_source": 25,
+  "qset_txt": "25.有關中風患者使用頭皮針之技術，下列敘述何者錯誤？\n \nA.適用於中風後半身不遂之患者\nB.撚針同時不建議病人做患肢運動，以免增加出血可能性\nC.沿頭皮下刺入五分至一寸\nD.根據患者臨床症狀選取運動區、語言區或足運感區等針刺治療",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:42.756614483Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6355813710,
+   "load_duration": 23677909,
+   "prompt_eval_count": 1304,
+   "prompt_eval_duration": 19913369,
+   "eval_count": 219,
+   "eval_duration": 6310492547,
+   "usage": {
+    "prompt_tokens": 1304,
+    "completion_tokens": 219,
+    "total_tokens": 1523
+   }
+  },
+  "response": {
+   "A": "適用於中風後半身不遂之患者",
+   "B": "撚針同時不建議病人做患肢運動，以免增加出血可能性",
+   "C": "沿頭皮下刺入五分至一寸",
+   "D": "根據患者臨床症狀選取運動區、語言區或足運感區等針刺治療",
+   "qid": 25,
+   "stem": "有關中風患者使用頭皮針之技術，下列敘述何者錯誤？\n\nA.適用於中風後半身不遂之患者\nB.撚針同時不建議病人做患肢運動，以免增加出血可能性\nC.沿頭皮下刺入五分至一寸\nD.根據患者臨床症狀選取運動區、語言區或足運感區等針刺治療"
+  },
+  "py_times": 6.3584418296813965
+ },
+ {
+  "qid_source": 26,
+  "qset_txt": "26.患者中風後一側肢體癱瘓，其針灸治療穴組，不包括下列何者？\n \nA.中脘、心俞\nB.肩髃、崑崙\nC.曲池、合谷\nD.環跳、足三里",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:46.835819195Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4076512571,
+   "load_duration": 21033142,
+   "prompt_eval_count": 1266,
+   "prompt_eval_duration": 18250980,
+   "eval_count": 141,
+   "eval_duration": 4036157691,
+   "usage": {
+    "prompt_tokens": 1266,
+    "completion_tokens": 141,
+    "total_tokens": 1407
+   }
+  },
+  "response": {
+   "A": "中脘、心俞",
+   "B": "肩髃、崑崙",
+   "C": "曲池、合谷",
+   "D": "環跳、足三里",
+   "qid": 26,
+   "stem": "\n26.患者中風後一側肢體癱瘓，其針灸治療穴組，不包括下列何者？\n\nA.中脘、心俞\nB.肩髃、崑崙\nC.曲池、合谷\nD.環跳、足三里\n"
+  },
+  "py_times": 4.0789783000946045
+ },
+ {
+  "qid_source": 27,
+  "qset_txt": "27.以「五十肩」之疼痛部位為基礎，臨床上循經取穴之敘述，下列何者錯誤？\n \nA.以肩前部疼痛為主，治療可選太陰經為主\nB.以肩外側疼痛為主，治療可選少陽經為主\nC.以肩後部疼痛為主，治療可選厥陰經為主\nD.以肩外側疼痛為主，治療可選陽明經為主",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:01:54.104211726Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 7265573909,
+   "load_duration": 22481385,
+   "prompt_eval_count": 1324,
+   "prompt_eval_duration": 24334578,
+   "eval_count": 249,
+   "eval_duration": 7217708125,
+   "usage": {
+    "prompt_tokens": 1324,
+    "completion_tokens": 249,
+    "total_tokens": 1573
+   }
+  },
+  "response": {
+   "A": "以肩前部疼痛為主，治療可選太陰經為主",
+   "B": "以肩外側疼痛為主，治療可選少陽經為主",
+   "C": "以肩後部疼痛為主，治療可選厥陰經為主",
+   "D": "以肩外側疼痛為主，治療可選陽明經為主",
+   "qid": 27,
+   "stem": "27.\n以「五十肩」之疼痛部位為基礎，臨床上循經取穴之敘述，下列何者錯誤？\n\nA. 以肩前部疼痛為主，治療可選太陰經為主\nB. 以肩外側疼痛為主，治療可選少陽經為主\nC. 以肩後部疼痛為主，治療可選厥陰經為主\nD. 以肩外側疼痛為主，治療可選陽明經為主"
+  },
+  "py_times": 7.268173933029175
+ },
+ {
+  "qid_source": 28,
+  "qset_txt": "28.48歲女性患者，診斷為類風濕性關節炎已2年，主訴四肢肩膀至手指遊走性疼痛，夜間及氣候變化\n疼痛加重。下列敘述何者錯誤？\n \nA.由於體虛感受風寒濕邪留滯\nB.腫痛時，可用灸療\nC.膝關節疼痛，選用犢鼻\nD.肩關節疼痛，針刺肩髃、肩井",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:00.409178529Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6302185224,
+   "load_duration": 20870236,
+   "prompt_eval_count": 1326,
+   "prompt_eval_duration": 27419623,
+   "eval_count": 215,
+   "eval_duration": 6252493500,
+   "usage": {
+    "prompt_tokens": 1326,
+    "completion_tokens": 215,
+    "total_tokens": 1541
+   }
+  },
+  "response": {
+   "A": "由於體虛感受風寒濕邪留滯",
+   "B": "腫痛時，可用灸療",
+   "C": "膝關節疼痛，選用犢鼻",
+   "D": "肩關節疼痛，針刺肩髃、肩井",
+   "qid": 28,
+   "stem": "28.48歲女性患者，診斷為類風濕性關節炎已2年，主訴四肢肩膀至手指遊走性疼痛，夜間及氣候變化\n疼痛加重。\n\nA.由於體虛感受風寒濕邪留滯\nB.腫痛時，可用灸療\nC.膝關節疼痛，選用犢鼻\nD.肩關節疼痛，針刺肩髃、肩井"
+  },
+  "py_times": 6.304629564285278
+ },
+ {
+  "qid_source": 29,
+  "qset_txt": "29.依《刺灸心法要訣》：「牙齒疼痛，手腕無力疼痛，及咳嗽風痰，偏正頭疼」諸症，宜取下列何\n穴？\n A.列缺\nB.尺澤\n\n\nC.經渠\nD.太淵",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:01.90047833Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3811453500,
+   "load_duration": 21805438,
+   "prompt_eval_count": 1273,
+   "prompt_eval_duration": 19304756,
+   "eval_count": 132,
+   "eval_duration": 3768981104,
+   "usage": {
+    "prompt_tokens": 1273,
+    "completion_tokens": 132,
+    "total_tokens": 1405
+   }
+  },
+  "response": {
+   "A": "列缺",
+   "B": "尺澤",
+   "C": "經渠",
+   "D": "太淵",
+   "qid": 29,
+   "stem": "依《刺灸心法要訣》:\n\t\"牙齒疼痛，手腕無力疼痛，及咳嗽風痰，偏正頭疼\"諸症，宜取下列何\n穴？\n A.列缺\nB.尺澤\n\nC.經渠\nD.太淵"
+  },
+  "py_times": 1.4913203716278076
+ },
+ {
+  "qid_source": 30,
+  "qset_txt": "30.下列何種疾病不是便秘的病因？\n \nA.甲狀腺功能亢進症\nB.結腸直腸腫瘤\nC.巨結腸症\nD.脊髓損傷",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:05.789747162Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3886389767,
+   "load_duration": 22656614,
+   "prompt_eval_count": 1254,
+   "prompt_eval_duration": 15877845,
+   "eval_count": 137,
+   "eval_duration": 3846212335,
+   "usage": {
+    "prompt_tokens": 1254,
+    "completion_tokens": 137,
+    "total_tokens": 1391
+   }
+  },
+  "response": {
+   "A": "A.甲狀腺功能亢進症",
+   "B": "B.結腸直腸腫瘤",
+   "C": "C.巨結腸症",
+   "D": "D.脊髓損傷",
+   "qid": 30,
+   "stem": "下列何種疾病不是便秘的病因？\n\nA.甲狀腺功能亢進症\nB.結腸直腸腫瘤\nC.巨結腸症\nD.脊髓損傷"
+  },
+  "py_times": 3.8890931606292725
+ },
+ {
+  "qid_source": 31,
+  "qset_txt": "31.有關急性哮喘的針灸治療，下列敘述何者錯誤？\n \nA.痰多加孔最、豐隆\nB.灸中脘、脾俞\nC.強刺激，留針30分鐘，每隔5～10分鐘撚針1次\nD.嚴重發作時，須配合現代醫學的治療方法做緊急處理",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:11.864807433Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6072230116,
+   "load_duration": 22842616,
+   "prompt_eval_count": 1302,
+   "prompt_eval_duration": 20378559,
+   "eval_count": 212,
+   "eval_duration": 6027885659,
+   "usage": {
+    "prompt_tokens": 1302,
+    "completion_tokens": 212,
+    "total_tokens": 1514
+   }
+  },
+  "response": {
+   "A": "痰多加孔最、豐隆",
+   "B": "灸中脘、脾俞",
+   "C": "強刺激，留針30分鐘，每隔5～10分鐘撚針1次",
+   "D": "嚴重發作時，須配合現代醫學的治療方法做緊急處理",
+   "qid": 31,
+   "stem": "有關急性哮喘的針灸治療，下列敘述何者錯誤？\n\nA.痰多加孔最、豐隆\nB.灸中脘、脾俞\nC.強刺激，留針30分鐘，每隔5～10分鐘撚針1次\nD.嚴重發作時，須配合現代醫學的治療方法做緊急處理"
+  },
+  "py_times": 6.074552774429321
+ },
+ {
+  "qid_source": 32,
+  "qset_txt": "32.下列何穴最不適合用於治療小兒遺尿？\n \nA.關元\nB.命門\nC.脾俞\nD.腎俞",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:14.633263Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2765824606,
+   "load_duration": 22446013,
+   "prompt_eval_count": 1240,
+   "prompt_eval_duration": 14804357,
+   "eval_count": 97,
+   "eval_duration": 2727477857,
+   "usage": {
+    "prompt_tokens": 1240,
+    "completion_tokens": 97,
+    "total_tokens": 1337
+   }
+  },
+  "response": {
+   "A": "關元",
+   "B": "命門",
+   "C": "脾俞",
+   "D": "腎俞",
+   "qid": 32,
+   "stem": "下列何穴最不適合用於治療小兒遺尿？\n\nA.關元\nB.命門\nC.脾俞\nD.腎俞"
+  },
+  "py_times": 2.768956184387207
+ },
+ {
+  "qid_source": 33,
+  "qset_txt": "33.28歲李先生搬家工人，工作需要搬負重物，半年前陰囊腫脹疼痛，少腹牽連疼痛，立則下墜，臥則\n入腹，初起疼痛較甚，近日不覺痛楚，僅陰囊偏大，下列敘述何者錯誤？\n \nA.中醫統稱為疝氣，發病多與任脈、足厥陰肝經有關\nB.此患證型稱為狐疝，是足厥陰經氣滯血瘀而致病\nC.處方可取關元、三角灸、大敦，以灸法為主\nD.肝經繞絡陰器，大敦為治疝氣常用穴",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:18.890525308Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4253876812,
+   "load_duration": 22912690,
+   "prompt_eval_count": 1381,
+   "prompt_eval_duration": 31752587,
+   "eval_count": 145,
+   "eval_duration": 4197994984,
+   "usage": {
+    "prompt_tokens": 1381,
+    "completion_tokens": 145,
+    "total_tokens": 1526
+   }
+  },
+  "response": {
+   "A": "膀胱經",
+   "B": "膽經",
+   "C": "胃經",
+   "D": "肝經",
+   "qid": 33,
+   "stem": "中醫統稱為疝氣，發病多與任脈、足厥陰肝經有關\n此患證型稱為狐疝，是足厥陰經氣滯血瘀而致病\n處方可取關元、三角灸、大敦，以灸法為主\n肝經繞絡陰器，大敦為治疝氣常用穴"
+  },
+  "py_times": 4.256283283233643
+ },
+ {
+  "qid_source": 34,
+  "qset_txt": "34.「針灸復興」或「針灸熱潮」是起源於那個事件被國際媒體重視報導，進一步引起一系列的學術研\n究，始被廣泛利用？\n \nA.二次世界大戰爆發後\nB.人類登陸月球後\nC.針灸麻醉實驗成功後\nD.2015年屠呦呦拿到諾貝爾生理學或醫學獎後",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:23.080344223Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4187143715,
+   "load_duration": 21596500,
+   "prompt_eval_count": 1311,
+   "prompt_eval_duration": 21162377,
+   "eval_count": 144,
+   "eval_duration": 4143137866,
+   "usage": {
+    "prompt_tokens": 1311,
+    "completion_tokens": 144,
+    "total_tokens": 1455
+   }
+  },
+  "response": {
+   "A": "二次世界大戰爆發後",
+   "B": "人類登陸月球後",
+   "C": "針灸麻醉實驗成功後",
+   "D": "2015年屠呦呦拿到諾貝爾生理學或醫學獎後",
+   "qid": 34,
+   "stem": "「針灸復興」或「針灸熱潮」是起源於那個事件被國際媒體重視報導，進一步引起一系列的學術研究，始被廣泛利用？\n\n"
+  },
+  "py_times": 4.190232276916504
+ },
+ {
+  "qid_source": 35,
+  "qset_txt": "35.依「主客原絡」之原則，肺經病咳喘，可以先取太淵穴，再配何穴位？\n A.列缺\n\n\nB.溫溜\nC.偏歷\nD.孔最",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:26.097522445Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3013737434,
+   "load_duration": 21715941,
+   "prompt_eval_count": 1251,
+   "prompt_eval_duration": 14932106,
+   "eval_count": 105,
+   "eval_duration": 2975954508,
+   "usage": {
+    "prompt_tokens": 1251,
+    "completion_tokens": 105,
+    "total_tokens": 1356
+   }
+  },
+  "response": {
+   "A": "列缺",
+   "B": "溫溜",
+   "C": "偏歷",
+   "D": "孔最",
+   "qid": 35,
+   "stem": "依「主客原絡」之原則，肺經病咳喘，可以先取太淵穴，再配何穴位？\n A.列缺\n B.溫溜\n C.偏歷\n D.孔最"
+  },
+  "py_times": 3.016450881958008
+ },
+ {
+  "qid_source": 36,
+  "qset_txt": "36.《傷寒論》原著中所記載之穴位，不包括下列何者？①風門　②脾俞　③風府　④肝俞　⑤京門\n \nA.①③④\nB.①②⑤\nC.②③④\nD.②④⑤",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:29.8998932Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6134369504,
+   "load_duration": 22839938,
+   "prompt_eval_count": 1275,
+   "prompt_eval_duration": 19139145,
+   "eval_count": 213,
+   "eval_duration": 6091436337,
+   "usage": {
+    "prompt_tokens": 1275,
+    "completion_tokens": 213,
+    "total_tokens": 1488
+   }
+  },
+  "response": {
+   "A": "A. ①③④",
+   "B": "B. ①②⑤",
+   "C": "c. ②③④",
+   "D": "d. ②④⑤",
+   "qid": 36,
+   "stem": "\n36.当前零三答己小設工、代南一有、四对、阶对、可安、加小設工\n\nA. ①③④\nB. ①②⑤\nc. ②③④\nd. ②④⑤"
+  },
+  "py_times": 3.8023805618286133
+ },
+ {
+  "qid_source": 37,
+  "qset_txt": "37.根據《靈樞．經脈》的原文，古人敘述經絡分布的形容詞共有三十九個字詞，下列何者錯誤？\n \nA.起：本經的起點\nB.支：本經的支脈\nC.趨：很快速的走過本經的一段\nD.貫：沿著某組織器官屈曲而行",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:42.7350788Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 12832080560,
+   "load_duration": 23598882,
+   "prompt_eval_count": 1294,
+   "prompt_eval_duration": 21210236,
+   "eval_count": 445,
+   "eval_duration": 12785433898,
+   "usage": {
+    "prompt_tokens": 1294,
+    "completion_tokens": 445,
+    "total_tokens": 1739
+   }
+  },
+  "response": {
+   "A": "A. 减：一箱的连接",
+   "B": "B. 滙：一箱的重勓",
+   "C": "C. 走：不递图的连接三十",
+   "D": "D. 转：终可在一个现机器区默朝还图",
+   "qid": 37,
+   "stem": "当前为笔沾、杰路的元给合的增苹有十五字词，代不是可见。\n\nA. 减：一箱的连接\nB. 滙：一箱的重勓\nC. 走：不递图的连接三十\nD. 转：终可在一个现机器区默朝还图"
+  },
+  "py_times": 12.83451771736145
+ },
+ {
+  "qid_source": 38,
+  "qset_txt": "38.切脈為中醫診病之重要手段，有關脈動部位之敘述，下列何者錯誤？\n \nA.寸口者，脈之大會，手太陰之脈動\nB.兩額動脈為足少陽脈氣所行\nC.兩頰動脈為手足陽明脈氣所行\nD.耳前動脈為手陽明脈氣所行",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:48.870072395Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6132337452,
+   "load_duration": 23614367,
+   "prompt_eval_count": 1303,
+   "prompt_eval_duration": 21835957,
+   "eval_count": 209,
+   "eval_duration": 6085554065,
+   "usage": {
+    "prompt_tokens": 1303,
+    "completion_tokens": 209,
+    "total_tokens": 1512
+   }
+  },
+  "response": {
+   "A": "寸口者，脈之大會，手太陰之脈動",
+   "B": "兩額動脈為足少陽脈氣所行",
+   "C": "兩頰動脈為手足陽明脈氣所行",
+   "D": "耳前動脈為手陽明脈氣所行",
+   "qid": 38,
+   "stem": "切脈為中醫診病之重要手段，有關脈動部位之敘述，下列何者錯誤？\n\nA.寸口者，脈之大會，手太陰之脈動\nB.兩額動脈為足少陽脈氣所行\nC.兩頰動脈為手足陽明脈氣所行\nD.耳前動脈為手陽明脈氣所行"
+  },
+  "py_times": 6.13489842414856
+ },
+ {
+  "qid_source": 39,
+  "qset_txt": "39.根據《靈樞．經脈》，關於足陽明胃經的循行及病候敘述，下列何者錯誤？\n \nA.其支者，從大迎前下人迎，循喉嚨，入缺盆\nB.下膝臏中，下循脛內廉，下足跗，入大趾內間\nC.所生病者……頸腫喉痹，大腹水腫，膝臏腫痛\nD.是動則病，灑灑振寒，善呻數欠，顏黑",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:02:57.065195662Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 8192360086,
+   "load_duration": 24437882,
+   "prompt_eval_count": 1342,
+   "prompt_eval_duration": 29345879,
+   "eval_count": 282,
+   "eval_duration": 8137497450,
+   "usage": {
+    "prompt_tokens": 1342,
+    "completion_tokens": 282,
+    "total_tokens": 1624
+   }
+  },
+  "response": {
+   "A": "其支者，從大迎前下人迎，循喉嚨，入缺盆",
+   "B": "下膝臏中，下循脛內廉，下足跗，入大趾內間",
+   "C": "所生病者……頸腫喉痹，大腹水腫，膝臏腫痛",
+   "D": "是動則病，灑灑振寒，善呻數欠，顏黑",
+   "qid": 39,
+   "stem": "根據《靈樞．經脈》，關於足陽明胃經的循行及病候敘述，下列何者錯誤？\n\nA.其支者，從大迎前下人迎，循喉嚨，入缺盆\nB.下膝臏中，下循脛內廉，下足跗，入大趾內間\nC.所生病者……頸腫喉痹，大腹水腫，膝臏腫痛\nD.是動則病，灑灑振寒，善呻數欠，顏黑"
+  },
+  "py_times": 8.19486117362976
+ },
+ {
+  "qid_source": 40,
+  "qset_txt": "40.根據《靈樞．經脈》，關於手太陽小腸經的循行及病候敘述，下列何者錯誤？\n \nA.起於小指次指之端，循手外側上腕，出踝中\nB.其支者，從缺盆，循頸，上頰，至目銳眥，卻入耳中\nC.是動則病，嗌痛，頷腫，不可以顧，肩似拔，臑似折\nD.是主液所生病者",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:02.365286898Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 7625123722,
+   "load_duration": 22602609,
+   "prompt_eval_count": 1328,
+   "prompt_eval_duration": 26409408,
+   "eval_count": 261,
+   "eval_duration": 7574827874,
+   "usage": {
+    "prompt_tokens": 1328,
+    "completion_tokens": 261,
+    "total_tokens": 1589
+   }
+  },
+  "response": {
+   "A": "A.起於小指次指之端，循手外側上腕，出踝中",
+   "B": "B.其支者，從缺盆，循頸，上頰，至目銳眥，卻入耳中",
+   "C": "C.是動則病，嗌痛，頷腫，不可以顧，肩似拔，臑似折",
+   "D": "D.是主液所生病者",
+   "qid": 40,
+   "stem": "根據《靈樞．經脈》，關於手太陽小腸經的循行及病候敘述，下列何者錯誤？\n\nA.起於小指次指之端，循手外側上腕，出踝中\nB.其支者，從缺盆，循頸，上頰，至目銳眥，卻入耳中\nC.是動則病，嗌痛，頷腫，不可以顧，肩似拔，臑似折\nD.是主液所生病者"
+  },
+  "py_times": 5.3000328540802
+ },
+ {
+  "qid_source": 41,
+  "qset_txt": "41.關於經別、別絡、經筋、皮部的敘述，下列何者錯誤？\n A.十二經別在別行之後，皆復還於本經\nB.十二經各有一別絡，另加上任督二脈之絡，以及脾之大絡，合稱為十五別絡\n\n\nC.經筋皆起於手或足末端，行經四肢後，終止於軀幹或頸項頭面部\nD.皮部受經脈中氣血濡養，其區域劃分大致和正經的循行部位一致",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:10.907275571Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 8539021596,
+   "load_duration": 22716551,
+   "prompt_eval_count": 1340,
+   "prompt_eval_duration": 27581434,
+   "eval_count": 291,
+   "eval_duration": 8487345903,
+   "usage": {
+    "prompt_tokens": 1340,
+    "completion_tokens": 291,
+    "total_tokens": 1631
+   }
+  },
+  "response": {
+   "A": "十二經別在別行之後，皆復還於本經",
+   "B": "十二經各有一別絡，另加上任督二脈之絡，以及脾之大絡，合稱為十五別絡",
+   "C": "經筋皆起於手或足末端，行經四肢後，終止於軀幹或頸項頭面部",
+   "D": "皮部受經脈中氣血濡養，其區域劃分大致和正經的循行部位一致",
+   "qid": 41,
+   "stem": "關於經別、別絡、經筋、皮部的敘述，下列何者錯誤？\n A.十二經別在別行之後，皆復還於本經\nB.十二經各有一別絡，另加上任督二脈之絡，以及脾之大絡，合稱為十五別絡\n\nC.經筋皆起於手或足末端，行經四肢後，終止於軀幹或頸項頭面部\nD.皮部受經脈中氣血濡養，其區域劃分大致和正經的循行部位一致"
+  },
+  "py_times": 8.541813611984253
+ },
+ {
+  "qid_source": 42,
+  "qset_txt": "42.針灸腧穴「中行上腹部」在人體的分布，下列何者錯誤？\n \nA.水道\nB.建里\nC.水分\nD.鳩尾",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:13.841539557Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2931417786,
+   "load_duration": 21351353,
+   "prompt_eval_count": 1247,
+   "prompt_eval_duration": 16029053,
+   "eval_count": 101,
+   "eval_duration": 2893013737,
+   "usage": {
+    "prompt_tokens": 1247,
+    "completion_tokens": 101,
+    "total_tokens": 1348
+   }
+  },
+  "response": {
+   "A": "水道",
+   "B": "建里",
+   "C": "水分",
+   "D": "鳩尾",
+   "qid": 42,
+   "stem": "針灸腧穴「中行上腹部」在人體的分布，下列何者錯誤？\n\nA.水道\nB.建里\nC.水分\nD.鳩尾"
+  },
+  "py_times": 2.9347074031829834
+ },
+ {
+  "qid_source": 43,
+  "qset_txt": "43.病患主訴呼吸喘促、咳嗽頻發，依據主客原絡法取穴，下列何者正確？\n \nA.合谷、列缺\nB.太谿、飛揚\nC.太淵、偏歷\nD.陽池、內關",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:17.870191123Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4024978099,
+   "load_duration": 23217277,
+   "prompt_eval_count": 1270,
+   "prompt_eval_duration": 19524531,
+   "eval_count": 138,
+   "eval_duration": 3981069573,
+   "usage": {
+    "prompt_tokens": 1270,
+    "completion_tokens": 138,
+    "total_tokens": 1408
+   }
+  },
+  "response": {
+   "A": "合谷、列缺",
+   "B": "太谿、飛揚",
+   "C": "太淵、偏歷",
+   "D": "陽池、內關",
+   "qid": 43,
+   "stem": "病患主訴呼吸喘促、咳嗽頻發，依據主客原絡法取穴，下列何者正確？\n\nA.合谷、列缺\nB.太谿、飛揚\nC.太淵、偏歷\nD.陽池、內關"
+  },
+  "py_times": 4.027673959732056
+ },
+ {
+  "qid_source": 44,
+  "qset_txt": "44.下列何穴位不是位於第一、二肋間的水平高度上？\n \nA.庫房\nB.彧中\nC.雲門\nD.華蓋",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:20.570931423Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2697976084,
+   "load_duration": 21423915,
+   "prompt_eval_count": 1238,
+   "prompt_eval_duration": 14744038,
+   "eval_count": 93,
+   "eval_duration": 2660515874,
+   "usage": {
+    "prompt_tokens": 1238,
+    "completion_tokens": 93,
+    "total_tokens": 1331
+   }
+  },
+  "response": {
+   "A": "庫房",
+   "B": "彧中",
+   "C": "雲門",
+   "D": "華蓋",
+   "qid": 44,
+   "stem": "下列何穴位不是位於第一、二肋間的水平高度上？\n\nA.庫房\nB.彧中\nC.雲門\nD.華蓋"
+  },
+  "py_times": 2.7004687786102295
+ },
+ {
+  "qid_source": 45,
+  "qset_txt": "45.有關「肩外俞」穴與「肩中俞」穴之敘述，下列何者錯誤？\n \nA.兩個穴位操作上皆需注意，進針過深會導致氣胸\nB.肩外俞較肩中俞位置高\nC.肩外俞較肩中俞位置外側\nD.肩外俞之高度與大杼穴平",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:23.910668996Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 5668355748,
+   "load_duration": 24476322,
+   "prompt_eval_count": 1295,
+   "prompt_eval_duration": 21840342,
+   "eval_count": 195,
+   "eval_duration": 5620991600,
+   "usage": {
+    "prompt_tokens": 1295,
+    "completion_tokens": 195,
+    "total_tokens": 1490
+   }
+  },
+  "response": {
+   "A": "兩個穴位操作上皆需注意，進針過深會導致氣胸",
+   "B": "肩外俞較肩中俞位置高",
+   "C": "肩外俞較肩中俞位置外側",
+   "D": "肩外俞之高度與大杼穴平",
+   "qid": 45,
+   "stem": "有關「肩外俞」穴與「肩中俞」穴之敘述，下列何者錯誤？\n\nA.兩個穴位操作上皆需注意，進針過深會導致氣胸\nB.肩外俞較肩中俞位置高\nC.肩外俞較肩中俞位置外側\nD.肩外俞之高度與大杼穴平"
+  },
+  "py_times": 3.339609146118164
+ },
+ {
+  "qid_source": 46,
+  "qset_txt": "46.有關「秉風」穴之敘述，下列何者錯誤？\n \nA.此穴位於易受風邪之處，功在散風舒筋\nB.脊中線往外約七寸，肩胛骨上際陷中\nC.手三陽經與足太陽膀胱經之交會穴\nD.與曲垣、巨骨，並行於肩胛棘上際",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:30.119617595Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6205883460,
+   "load_duration": 22875686,
+   "prompt_eval_count": 1299,
+   "prompt_eval_duration": 20314238,
+   "eval_count": 212,
+   "eval_duration": 6161389461,
+   "usage": {
+    "prompt_tokens": 1299,
+    "completion_tokens": 212,
+    "total_tokens": 1511
+   }
+  },
+  "response": {
+   "A": "此穴位於易受風邪之處，功在散風舒筋",
+   "B": "脊中線往外約七寸，肩胛骨上際陷中",
+   "C": "手三陽經與足太陽膀胱經之交會穴",
+   "D": "與曲垣、巨骨，並行於肩胛棘上際",
+   "qid": 46,
+   "stem": "有關「秉風」穴之敘述，下列何者錯誤？\n\nA.此穴位於易受風邪之處，功在散風舒筋\nB.脊中線往外約七寸，肩胛骨上際陷中\nC.手三陽經與足太陽膀胱經之交會穴\nD.與曲垣、巨骨，並行於肩胛棘上際"
+  },
+  "py_times": 6.208807706832886
+ },
+ {
+  "qid_source": 47,
+  "qset_txt": "47.腕骨、陽谷、養老、少海、臑會、天宗、肩井、肩中俞、天鼎、巨髎、聽會。以上穴位屬於小腸經\n者有幾個？\n A.5\nB.6\n\n\nC.7\nD.8",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:33.616028071Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3493424397,
+   "load_duration": 23070908,
+   "prompt_eval_count": 1267,
+   "prompt_eval_duration": 19217646,
+   "eval_count": 118,
+   "eval_duration": 3450117978,
+   "usage": {
+    "prompt_tokens": 1267,
+    "completion_tokens": 118,
+    "total_tokens": 1385
+   }
+  },
+  "response": {
+   "A": "5",
+   "B": "6",
+   "C": "7",
+   "D": "8",
+   "qid": 47,
+   "stem": "腕骨、陽谷、養老、少海、臑會、天宗、肩井、肩中俞、天鼎、巨髎、聽會。\n以上穴位屬於小腸經\n者有幾個？\n A.5\nB.6\n\nC.7\nD.8"
+  },
+  "py_times": 3.496020793914795
+ },
+ {
+  "qid_source": 48,
+  "qset_txt": "48.根據《針灸科學》，下列何者為與足背太衝穴內外相對的穴位？\n \nA.太谿\nB.陰谷\nC.湧泉\nD.命門",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:36.735703663Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3116659559,
+   "load_duration": 24171902,
+   "prompt_eval_count": 1250,
+   "prompt_eval_duration": 16707114,
+   "eval_count": 105,
+   "eval_duration": 3074703990,
+   "usage": {
+    "prompt_tokens": 1250,
+    "completion_tokens": 105,
+    "total_tokens": 1355
+   }
+  },
+  "response": {
+   "A": "太谿",
+   "B": "陰谷",
+   "C": "湧泉",
+   "D": "命門",
+   "qid": 48,
+   "stem": "根據《針灸科學》，下列何者為與足背太衝穴內外相對的穴位？\n\nA.太谿\nB.陰谷\nC.湧泉\nD.命門"
+  },
+  "py_times": 3.1195108890533447
+ },
+ {
+  "qid_source": 49,
+  "qset_txt": "49.根據《針灸科學》，穴在足內踝上二寸，有兩個腎經的穴道，下列何者正確？\n \nA.絕骨、陽交\nB.復溜、交信\nC.梁丘、陰市\nD.陰陵泉、三陰交",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:40.762330652Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4023783247,
+   "load_duration": 23288143,
+   "prompt_eval_count": 1270,
+   "prompt_eval_duration": 19326173,
+   "eval_count": 138,
+   "eval_duration": 3980058384,
+   "usage": {
+    "prompt_tokens": 1270,
+    "completion_tokens": 138,
+    "total_tokens": 1408
+   }
+  },
+  "response": {
+   "A": "絕骨、陽交",
+   "B": "復溜、交信",
+   "C": "梁丘、陰市",
+   "D": "陰陵泉、三陰交",
+   "qid": 49,
+   "stem": "根據《針灸科學》，穴在足內踝上二寸，有兩個腎經的穴道，下列何者正確？\n\nA.絕骨、陽交\nB.復溜、交信\nC.梁丘、陰市\nD.陰陵泉、三陰交"
+  },
+  "py_times": 4.026449203491211
+ },
+ {
+  "qid_source": 50,
+  "qset_txt": "50.關於內庭穴的敘述，下列何者錯誤？\n \nA.配天樞、曲池，治濕熱下痢\nB.配下關、頰車、地倉、合谷，治三叉神經痛\nC.穴在足背第二、三趾骨之間，足趾叉縫赤白肉際處\nD.配大陵、神門、心俞，治精神病",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:45.444998262Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4679766812,
+   "load_duration": 22028459,
+   "prompt_eval_count": 1302,
+   "prompt_eval_duration": 24531183,
+   "eval_count": 161,
+   "eval_duration": 4632153047,
+   "usage": {
+    "prompt_tokens": 1302,
+    "completion_tokens": 161,
+    "total_tokens": 1463
+   }
+  },
+  "response": {
+   "A": "膀胱經",
+   "B": "膽經",
+   "C": "胃經",
+   "D": "肝經",
+   "qid": 50,
+   "stem": "關於內庭穴的敘述，下列何者錯誤？\n\nA.配天樞、曲池，治濕熱下痢\nB.配下關、頰車、地倉、合谷，治三叉神經痛\nC.穴在足背第二、三趾骨之間，足趾叉縫赤白肉際處\nD.配大陵、神門、心俞，治精神病"
+  },
+  "py_times": 4.682680130004883
+ },
+ {
+  "qid_source": 51,
+  "qset_txt": "51.關於胸腹部的胃經穴位，下列敘述何者錯誤？\n \nA.大巨穴在石門穴旁開二寸處\nB.乳根與食竇穴同處於第五肋與第六肋之間\nC.屋翳在第二肋與第三肋之間，神藏穴旁開二寸\nD.歸來穴在大赫穴旁開一寸處",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:51.63511021Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6186862018,
+   "load_duration": 22995968,
+   "prompt_eval_count": 1300,
+   "prompt_eval_duration": 19935437,
+   "eval_count": 212,
+   "eval_duration": 6142994752,
+   "usage": {
+    "prompt_tokens": 1300,
+    "completion_tokens": 212,
+    "total_tokens": 1512
+   }
+  },
+  "response": {
+   "A": "大巨穴在石門穴旁開二寸處",
+   "B": "乳根與食竇穴同處於第五肋與第六肋之間",
+   "C": "屋翳在第二肋與第三肋之間，神藏穴旁開二寸",
+   "D": "歸來穴在大赫穴旁開一寸處",
+   "qid": 51,
+   "stem": "關於胸腹部的胃經穴位，下列敘述何者錯誤？\n\nA.大巨穴在石門穴旁開二寸處\nB.乳根與食竇穴同處於第五肋與第六肋之間\nC.屋翳在第二肋與第三肋之間，神藏穴旁開二寸\nD.歸來穴在大赫穴旁開一寸處"
+  },
+  "py_times": 6.189690828323364
+ },
+ {
+  "qid_source": 52,
+  "qset_txt": "52.關於風池穴，下列敘述何者錯誤？\n \nA.風府穴旁開二寸，在頸大肌之外廉，凹陷處是穴\nB.配內關、太衝，可治高血壓\nC.為膀胱經、膽經與陽維脈之會穴\nD.主治中風、暑病、癲癇",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:03:55.473074919Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6071832235,
+   "load_duration": 21358751,
+   "prompt_eval_count": 1292,
+   "prompt_eval_duration": 20080922,
+   "eval_count": 210,
+   "eval_duration": 6029193327,
+   "usage": {
+    "prompt_tokens": 1292,
+    "completion_tokens": 210,
+    "total_tokens": 1502
+   }
+  },
+  "response": {
+   "A": "A.風府穴旁開二寸，在頸大肌之外廉，凹陷處是穴",
+   "B": "B.配內關、太衝，可治高血壓",
+   "C": "C.為膀胱經、膽經與陽維脈之會穴",
+   "D": "D.主治中風、暑病、癲癇",
+   "qid": 52,
+   "stem": "關於風池穴，下列敘述何者錯誤？\n\nA.風府穴旁開二寸，在頸大肌之外廉，凹陷處是穴\nB.配內關、太衝，可治高血壓\nC.為膀胱經、膽經與陽維脈之會穴\nD.主治中風、暑病、癲癇"
+  },
+  "py_times": 3.837444543838501
+ },
+ {
+  "qid_source": 53,
+  "qset_txt": "53.有關「京門」穴之敘述，下列何者錯誤？\n A.為小腸之募穴\nB.在腰中夾脊第十二季肋骨端\nC.斜刺，針入五至八分\n\n\nD.臍上五分，旁開九寸半",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:00.132482224Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4656679021,
+   "load_duration": 23662665,
+   "prompt_eval_count": 1272,
+   "prompt_eval_duration": 17942100,
+   "eval_count": 160,
+   "eval_duration": 4614276158,
+   "usage": {
+    "prompt_tokens": 1272,
+    "completion_tokens": 160,
+    "total_tokens": 1432
+   }
+  },
+  "response": {
+   "A": "為小腸之募穴",
+   "B": "在腰中夾脊第十二季肋骨端",
+   "C": "斜刺，針入五至八分",
+   "D": "臍上五分，旁開九寸半",
+   "qid": 53,
+   "stem": "有關「京門」穴之敘述，下列何者錯誤？\n A.為小腸之募穴\nB.在腰中夾脊第十二季肋骨端\nC.斜刺，針入五至八分\nD.臍上五分，旁開九寸半"
+  },
+  "py_times": 4.659180402755737
+ },
+ {
+  "qid_source": 54,
+  "qset_txt": "54.根據《針灸科學》，在膝關節內側屈膝橫紋頭陷中，為肝經何穴？\n \nA.陰谷\nB.陽谷\nC.曲泉\nD.委中",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:03.374301684Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3239211943,
+   "load_duration": 24290539,
+   "prompt_eval_count": 1255,
+   "prompt_eval_duration": 16586551,
+   "eval_count": 112,
+   "eval_duration": 3197234220,
+   "usage": {
+    "prompt_tokens": 1255,
+    "completion_tokens": 112,
+    "total_tokens": 1367
+   }
+  },
+  "response": {
+   "A": "陰谷",
+   "B": "陽谷",
+   "C": "曲泉",
+   "D": "委中",
+   "qid": 54,
+   "stem": "根據《針灸科學》，在膝關節內側屈膝橫紋頭陷中，為肝經何穴？\n\nA. 陰谷\nB. 陽谷\nC. 曲泉\nD. 委中"
+  },
+  "py_times": 3.24176287651062
+ },
+ {
+  "qid_source": 55,
+  "qset_txt": "55.有關「然谷」穴之敘述，下列何者錯誤？\n \nA.為腎經的郄穴\nB.別名龍泉\nC.主治咽痛腫，小腹脹痛上搶胸脅\nD.位於足部舟狀骨突起下緣",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:08.216585726Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4839564669,
+   "load_duration": 24153238,
+   "prompt_eval_count": 1272,
+   "prompt_eval_duration": 18638895,
+   "eval_count": 167,
+   "eval_duration": 4795701268,
+   "usage": {
+    "prompt_tokens": 1272,
+    "completion_tokens": 167,
+    "total_tokens": 1439
+   }
+  },
+  "response": {
+   "A": "A.為腎經的郄穴",
+   "B": "B.別名龍泉",
+   "C": "C.主治咽痛腫，小腹脹痛上搶胸脅",
+   "D": "D.位於足部舟狀骨突起下緣",
+   "qid": 55,
+   "stem": "有關「然谷」穴之敘述，下列何者錯誤？\n\nA.為腎經的郄穴\nB.別名龍泉\nC.主治咽痛腫，小腹脹痛上搶胸脅\nD.位於足部舟狀骨突起下緣"
+  },
+  "py_times": 4.84209680557251
+ },
+ {
+  "qid_source": 56,
+  "qset_txt": "56.下列何穴不屬於督脈？\n \nA.靈道\nB.靈臺\nC.神道\nD.神庭",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:10.66899463Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2449057767,
+   "load_duration": 27439064,
+   "prompt_eval_count": 1230,
+   "prompt_eval_duration": 14370092,
+   "eval_count": 83,
+   "eval_duration": 2406205653,
+   "usage": {
+    "prompt_tokens": 1230,
+    "completion_tokens": 83,
+    "total_tokens": 1313
+   }
+  },
+  "response": {
+   "A": "靈道",
+   "B": "靈臺",
+   "C": "神道",
+   "D": "神庭",
+   "qid": 56,
+   "stem": "下列何穴不屬於督脈？\n\nA.靈道\nB.靈臺\nC.神道\nD.神庭"
+  },
+  "py_times": 2.451965093612671
+ },
+ {
+  "qid_source": 57,
+  "qset_txt": "57.關於腦戶穴的敘述，下列何者錯誤？\n \nA.督脈循頸上行入腦，該穴為脈氣入腦的門戶，故名\nB.穴在項後，入髮際一寸，大筋內宛宛中\nC.《素問》云：刺腦戶入腦立死，因內有延髓\nD.主治癲癇、頭暈、後頸痛、目不明、風眩等",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:18.129023416Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 7457274431,
+   "load_duration": 22781031,
+   "prompt_eval_count": 1315,
+   "prompt_eval_duration": 22618223,
+   "eval_count": 255,
+   "eval_duration": 7410460406,
+   "usage": {
+    "prompt_tokens": 1315,
+    "completion_tokens": 255,
+    "total_tokens": 1570
+   }
+  },
+  "response": {
+   "A": "A.督脈循頸上行入腦，該穴為脈氣入腦的門戶，故名",
+   "B": "B.穴在項後，入髮際一寸，大筋內宛宛中",
+   "C": "C.《素問》云：刺腦戶入腦立死，因內有延髓",
+   "D": "D.主治癲癇、頭暈、後頸痛、目不明、風眩等",
+   "qid": 57,
+   "stem": "關於腦戶穴的敘述，下列何者錯誤？\n\nA.督脈循頸上行入腦，該穴為脈氣入腦的門戶，故名\nB.穴在項後，入髮際一寸，大筋內宛宛中\nC.《素問》云：刺腦戶入腦立死，因內有延髓\nD.主治癲癇、頭暈、後頸痛、目不明、風眩等"
+  },
+  "py_times": 7.4600841999053955
+ },
+ {
+  "qid_source": 58,
+  "qset_txt": "58.龍虎交戰手法的組成，下列敘述何者正確？\n \nA.撚轉法和九六數\nB.提按法和呼吸法\nC.九六數和提按法\nD.呼吸法和開闔法",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:20.268988237Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4423544342,
+   "load_duration": 23712942,
+   "prompt_eval_count": 1261,
+   "prompt_eval_duration": 16596515,
+   "eval_count": 147,
+   "eval_duration": 4382281401,
+   "usage": {
+    "prompt_tokens": 1261,
+    "completion_tokens": 147,
+    "total_tokens": 1408
+   }
+  },
+  "response": {
+   "A": "A.撚轉法和九六數",
+   "B": "B.提按法和呼吸法",
+   "C": "C.九六數和提按法",
+   "D": "D.呼吸法和開闔法",
+   "qid": 58,
+   "stem": "58.\n龍虎交戰手法的組成，下列敘述何者正確？\n\nA.撚轉法和九六數\nB.提按法和呼吸法\nC.九六數和提按法\nD.呼吸法和開闔法"
+  },
+  "py_times": 2.139700412750244
+ },
+ {
+  "qid_source": 59,
+  "qset_txt": "59.《內經》官針中，何種刺法不歸屬於放血的方法？\n \nA.贊刺\nB.豹文刺\nC.大瀉刺\nD.短刺",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:23.311466865Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3039228119,
+   "load_duration": 24942573,
+   "prompt_eval_count": 1247,
+   "prompt_eval_duration": 16932978,
+   "eval_count": 105,
+   "eval_duration": 2996620808,
+   "usage": {
+    "prompt_tokens": 1247,
+    "completion_tokens": 105,
+    "total_tokens": 1352
+   }
+  },
+  "response": {
+   "A": "贊刺",
+   "B": "豹文刺",
+   "C": "大瀉刺",
+   "D": "短刺",
+   "qid": 59,
+   "stem": "《內經》官針中，何種刺法不歸屬於放血的方法？\n\nA.贊刺\nB.豹文刺\nC.大瀉刺\nD.短刺"
+  },
+  "py_times": 3.0418777465820312
+ },
+ {
+  "qid_source": 60,
+  "qset_txt": "60.有關灸法臨床適應症中，下列敘述共有幾項正確？①虛癆　②遺精　③冷哮　④多尿　⑤痺痛　⑥\n胃痛\n \nA.3\nB.4\nC.5\nD.6",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:26.277380907Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2963177665,
+   "load_duration": 21195607,
+   "prompt_eval_count": 1272,
+   "prompt_eval_duration": 19904617,
+   "eval_count": 100,
+   "eval_duration": 2921216553,
+   "usage": {
+    "prompt_tokens": 1272,
+    "completion_tokens": 100,
+    "total_tokens": 1372
+   }
+  },
+  "response": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6",
+   "qid": 60,
+   "stem": "有關灸法臨床適應症中，下列敘述共有幾項正確？①虛癆　②遺精　③冷哮　④多尿　⑤痺痛　⑥\n\n"
+  },
+  "py_times": 2.9658615589141846
+ },
+ {
+  "qid_source": 61,
+  "qset_txt": "61.有關拔火罐的適應症，下列敘述共幾項正確？①外傷腰痛、肩背痛　②懷孕四個月以上孕婦腰骶部　\n③全身皮膚病或局部皮膚損傷　④腹痛、痛經　⑤局部麻痛　⑥胃痛、脅痛\n \nA.2\nB.3\nC.4\nD.5",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:30.427005675Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4146123071,
+   "load_duration": 23072501,
+   "prompt_eval_count": 1305,
+   "prompt_eval_duration": 24574753,
+   "eval_count": 137,
+   "eval_duration": 4097289659,
+   "usage": {
+    "prompt_tokens": 1305,
+    "completion_tokens": 137,
+    "total_tokens": 1442
+   }
+  },
+  "response": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "qid": 61,
+   "stem": "有關拔火罐的適應症，下列敘述共幾項正確？①外傷腰痛、肩背痛　②懷孕四個月以上孕婦腰骶部　③全身皮膚病或局部皮膚損傷　④腹痛、痛經　⑤局部麻痛　⑥胃痛、脅痛\n\n"
+  },
+  "py_times": 4.14949893951416
+ },
+ {
+  "qid_source": 62,
+  "qset_txt": "62.有關刺絡拔罐法的敘述，下列共幾項正確？①刺絡拔罐法，它是刺血法、拔罐法和經筋針法的綜合\n運用　②重輥法則須出現皮膚塵粒樣出血　③輥刺拔罐法應先在治療部位作上下來回輥刺約二十分\n鐘　④輥刺後進行拔罐時間約五至十分鐘　⑤刺絡拔罐屬於濕杯術　⑥散刺、叩刺拔罐法的重刺激\n是以皮膚表面芝麻點狀出血為度\n \nA.2\nB.3\nC.4\nD.5",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:36.629644881Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6199563843,
+   "load_duration": 23036443,
+   "prompt_eval_count": 1379,
+   "prompt_eval_duration": 36009058,
+   "eval_count": 209,
+   "eval_duration": 6139440033,
+   "usage": {
+    "prompt_tokens": 1379,
+    "completion_tokens": 209,
+    "total_tokens": 1588
+   }
+  },
+  "response": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "qid": 62,
+   "stem": "有關刺絡拔罐法的敘述，下列共幾項正確？①刺絡拔罐法，它是刺血法、拔罐法和經筋針法的綜合\n運用　②重輥法則須出現皮膚塵粒樣出血　③輥刺拔罐法應先在治療部位作上下來回輥刺約二十分鐘　④輥刺後進行拔罐時間約五至十分鐘　⑤刺絡拔罐屬於濕杯術　⑥散刺、叩刺拔罐法的重刺激\n是以皮膚表面芝麻點狀出血為度\n"
+  },
+  "py_times": 6.202121734619141
+ },
+ {
+  "qid_source": 63,
+  "qset_txt": "63.應用刮痧療法時，如遇到「暈刮」現象及處理「暈刮」方式，下列敘述共幾項正確？①「暈刮」通\n常是在刮拭過程中出現面色蒼白、噁心和冒冷汗等現象　②繼續強刺激刮拭，以使患者甦醒　③刮\n拭過程中出現胸悶、心跳快速等現象可能是「暈刮」的現象　④按壓人中、內關等穴位　⑤讓患者\n飲用熱開水\n \nA.2\nB.3\nC.4\nD.5",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:42.770576215Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 6138213393,
+   "load_duration": 21035155,
+   "prompt_eval_count": 1378,
+   "prompt_eval_duration": 34048251,
+   "eval_count": 210,
+   "eval_duration": 6082361024,
+   "usage": {
+    "prompt_tokens": 1378,
+    "completion_tokens": 210,
+    "total_tokens": 1588
+   }
+  },
+  "response": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "qid": 63,
+   "stem": "應用刮痧療法時，如遇到「暈刮」現象及處理「暈刮」方式，下列敘述共幾項正確？①「暈刮」通\n常是在刮拭過程中出現面色蒼白、噁心和冒冷汗等現象　②繼續強刺激刮拭，以使患者甦醒　③刮\n拭過程中出現胸悶、心跳快速等現象可能是「暈刮」的現象　④按壓人中、內關等穴位　⑤讓患者\n飲用熱開水\n\n"
+  },
+  "py_times": 6.140609264373779
+ },
+ {
+  "qid_source": 64,
+  "qset_txt": "64.有關顏面神經麻痺的治療方法與注意事項何者最不適當？\n A.若為外感初期宜用瀉法，後期宜疏通經絡或用補法加灸\nB.局部取穴可選擇風池、陽白、攢竹、迎香、地倉、頰車、翳風等穴\nC.遠端取穴可選擇健側合谷、雙側足三里、太衝等配穴\n\n\nD.發病急性期宜在局部患處進行電針或電療處置",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:48.766723026Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 8337653417,
+   "load_duration": 22642527,
+   "prompt_eval_count": 1339,
+   "prompt_eval_duration": 27230219,
+   "eval_count": 288,
+   "eval_duration": 8286813037,
+   "usage": {
+    "prompt_tokens": 1339,
+    "completion_tokens": 288,
+    "total_tokens": 1627
+   }
+  },
+  "response": {
+   "A": "若為外感初期宜用瀉法，後期宜疏通經絡或用補法加灸",
+   "B": "局部取穴可選擇風池、陽白、攢竹、迎香、地倉、頰車、翳風等穴",
+   "C": "遠端取穴可選擇健側合谷、雙側足三里、太衝等配穴",
+   "D": "發病急性期宜在局部患處進行電針或電療處置",
+   "qid": 64,
+   "stem": "有關顏面神經麻痺的治療方法與注意事項何者最不適當？\n A.若為外感初期宜用瀉法，後期宜疏通經絡或用補法加灸\nB.局部取穴可選擇風池、陽白、攢竹、迎香、地倉、頰車、翳風等穴\nC.遠端取穴可選擇健側合谷、雙側足三里、太衝等配穴\nD.發病急性期宜在局部患處進行電針或電療處置"
+  },
+  "py_times": 5.996231317520142
+ },
+ {
+  "qid_source": 65,
+  "qset_txt": "65.下列何穴無法用於氣血兩虛型頭痛的治療？\n \nA.膻中\nB.太衝\nC.足三里\nD.三陰交",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:04:51.595357423Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2825743036,
+   "load_duration": 23355914,
+   "prompt_eval_count": 1242,
+   "prompt_eval_duration": 13890260,
+   "eval_count": 98,
+   "eval_duration": 2787305854,
+   "usage": {
+    "prompt_tokens": 1242,
+    "completion_tokens": 98,
+    "total_tokens": 1340
+   }
+  },
+  "response": {
+   "A": "膻中",
+   "B": "太衝",
+   "C": "足三里",
+   "D": "三陰交",
+   "qid": 65,
+   "stem": "下列何穴無法用於氣血兩虛型頭痛的治療？\n\nA.膻中\nB.太衝\nC.足三里\nD.三陰交"
+  },
+  "py_times": 2.8282876014709473
+ },
+ {
+  "qid_source": 66,
+  "qset_txt": "66.下列有關坐骨神經痛的敘述何者錯誤？\n \nA.坐骨神經痛的疼痛感經常會放射到大腿後方、小腿後和前外側及足部\nB.坐骨神經痛的主要疼痛部位與足太陰脾經和足厥陰肝經的循行部位最相關\nC.治療穴位可選用腎俞、大腸俞、秩邊、環跳、風市、陽陵泉等\nD.針刺入穴位後可加以行針，但不宜在同一穴位多次重複刺激以免損傷神經",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:01.445674669Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 9847516355,
+   "load_duration": 25774178,
+   "prompt_eval_count": 1356,
+   "prompt_eval_duration": 29824627,
+   "eval_count": 336,
+   "eval_duration": 9790214234,
+   "usage": {
+    "prompt_tokens": 1356,
+    "completion_tokens": 336,
+    "total_tokens": 1692
+   }
+  },
+  "response": {
+   "A": "A.坐骨神經痛的疼痛感經常會放射到大腿後方、小腿後和前外側及足部",
+   "B": "B.坐骨神經痛的主要疼痛部位與足太陰脾經和足厥陰肝經的循行部位最相關",
+   "C": "C.治療穴位可選用腎俞、大腸俞、秩邊、環跳、風市、陽陵泉等",
+   "D": "D.針刺入穴位後可加以行針，但不宜在同一穴位多次重複刺激以免損傷神經",
+   "qid": 66,
+   "stem": "下列有關坐骨神經痛的敘述何者錯誤？\n\nA.坐骨神經痛的疼痛感經常會放射到大腿後方、小腿後和前外側及足部\nB.坐骨神經痛的主要疼痛部位與足太陰脾經和足厥陰肝經的循行部位最相關\nC.治療穴位可選用腎俞、大腸俞、秩邊、環跳、風市、陽陵泉等\nD.針刺入穴位後可加以行針，但不宜在同一穴位多次重複刺激以免損傷神經"
+  },
+  "py_times": 9.849870204925537
+ },
+ {
+  "qid_source": 67,
+  "qset_txt": "67.針灸治療腕隧道症候群，取下列何穴治療？\n \nA.內關\nB.列缺\nC.外關\nD.養老",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:04.187320028Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2738968228,
+   "load_duration": 21649813,
+   "prompt_eval_count": 1241,
+   "prompt_eval_duration": 17048810,
+   "eval_count": 94,
+   "eval_duration": 2699065487,
+   "usage": {
+    "prompt_tokens": 1241,
+    "completion_tokens": 94,
+    "total_tokens": 1335
+   }
+  },
+  "response": {
+   "A": "內關",
+   "B": "列缺",
+   "C": "外關",
+   "D": "養老",
+   "qid": 67,
+   "stem": "針灸治療腕隧道症候群，取下列何穴治療？\n\nA.內關\nB.列缺\nC.外關\nD.養老"
+  },
+  "py_times": 2.741588830947876
+ },
+ {
+  "qid_source": 68,
+  "qset_txt": "68.寒流過境後突發急性腰痛，下列治療何者最適當？\n \nA.委中穴刺絡放血\nB.針刺後谿、申脈加拔罐\nC.針刺足三里、三陰交加電針\nD.針刺腎俞、大腸俞加針上灸",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:09.429106512Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 5239064727,
+   "load_duration": 22024470,
+   "prompt_eval_count": 1285,
+   "prompt_eval_duration": 19787791,
+   "eval_count": 182,
+   "eval_duration": 5195955930,
+   "usage": {
+    "prompt_tokens": 1285,
+    "completion_tokens": 182,
+    "total_tokens": 1467
+   }
+  },
+  "response": {
+   "A": "委中穴刺絡放血",
+   "B": "針刺後谿、申脈加拔罐",
+   "C": "針刺足三里、三陰交加電針",
+   "D": "針刺腎俞、大腸俞加針上灸",
+   "qid": 68,
+   "stem": "寒流過境後突發急性腰痛，下列治療何者最適當？\n\nA.委中穴刺絡放血\nB.針刺後谿、申脈加拔罐\nC.針刺足三里、三陰交加電針\nD.針刺腎俞、大腸俞加針上灸"
+  },
+  "py_times": 5.241574048995972
+ },
+ {
+  "qid_source": 69,
+  "qset_txt": "69.食用海鮮後誘發皮膚過敏，蕁麻疹發作，針灸治療應選下列何穴？\n \nA.足三里、三陰交\nB.曲池、血海\nC.豐隆、陰陵泉\nD.外關、內關",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:13.358905838Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3927056167,
+   "load_duration": 21903931,
+   "prompt_eval_count": 1269,
+   "prompt_eval_duration": 17571713,
+   "eval_count": 137,
+   "eval_duration": 3886397820,
+   "usage": {
+    "prompt_tokens": 1269,
+    "completion_tokens": 137,
+    "total_tokens": 1406
+   }
+  },
+  "response": {
+   "A": "足三里、三陰交",
+   "B": "曲池、血海",
+   "C": "豐隆、陰陵泉",
+   "D": "外關、內關",
+   "qid": 69,
+   "stem": "食用海鮮後誘發皮膚過敏，蕁麻疹發作，針灸治療應選下列何穴？\n\nA.足三里、三陰交\nB.曲池、血海\nC.豐隆、陰陵泉\nD.外關、內關"
+  },
+  "py_times": 3.929805278778076
+ },
+ {
+  "qid_source": 70,
+  "qset_txt": "70.以針灸治療牙痛時，下列敘述共幾項正確？①先針痛側合谷穴，針斜向上而刺入皮膚　②無法止痛\n時加內庭、下關、頰車、耳門　③熬夜牙痛用針灸之外加藥物較佳　④合谷穴採雀啄術\n A.1\nB.2\nC.3\n\n\nD.4",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:15.506407186Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4542169681,
+   "load_duration": 21610997,
+   "prompt_eval_count": 1311,
+   "prompt_eval_duration": 22842926,
+   "eval_count": 158,
+   "eval_duration": 4496237218,
+   "usage": {
+    "prompt_tokens": 1311,
+    "completion_tokens": 158,
+    "total_tokens": 1469
+   }
+  },
+  "response": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "qid": 70,
+   "stem": "以針灸治療牙痛時，下列敘述共幾項正確？①先針痛側合谷穴，針斜向上而刺入皮膚　②無法止痛\n時加內庭、下關、頰車、耳門　③熬夜牙痛用針灸之外加藥物較佳　④合谷穴採雀啄術\n A.1\nB.2\nC.3\nD.4"
+  },
+  "py_times": 2.147134780883789
+ },
+ {
+  "qid_source": 71,
+  "qset_txt": "71.呼吸照護病房中一位90歲患者，因多日腹瀉出現脫肛現象，會診中醫，下列有關治療之敘述，共有\n幾項正確？①可針長強穴　②可灸百會穴　③可隔鹽灸神闕穴　④可選膀胱經的合穴承山穴\n \nA.1\nB.2\nC.3\nD.4",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:19.637241032Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4127810216,
+   "load_duration": 24359391,
+   "prompt_eval_count": 1310,
+   "prompt_eval_duration": 20749844,
+   "eval_count": 142,
+   "eval_duration": 4081654866,
+   "usage": {
+    "prompt_tokens": 1310,
+    "completion_tokens": 142,
+    "total_tokens": 1452
+   }
+  },
+  "response": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "qid": 71,
+   "stem": "呼吸照護病房中一位90歲患者，因多日腹瀉出現脫肛現象，會診中醫，下列有關治療之敘述，共有\n幾項正確？①可針長強穴　②可灸百會穴　③可隔鹽灸神闕穴　④可選膀胱經的合穴承山穴\n\n"
+  },
+  "py_times": 4.1304357051849365
+ },
+ {
+  "qid_source": 72,
+  "qset_txt": "72.預防大腸癌應養成規律排便習慣，改善便秘的穴位中，下列敘述共幾項正確？①天樞穴屬胃經，是\n大腸會穴　②老人虛秘可以選用氣海穴和關元穴　③照海穴屬腎經，可調理臟腑　④支溝穴可清利\n三焦氣機\n \nA.1\nB.2\nC.3\nD.4",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:24.01477429Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4374919947,
+   "load_duration": 22133707,
+   "prompt_eval_count": 1318,
+   "prompt_eval_duration": 28205612,
+   "eval_count": 149,
+   "eval_duration": 4323178342,
+   "usage": {
+    "prompt_tokens": 1318,
+    "completion_tokens": 149,
+    "total_tokens": 1467
+   }
+  },
+  "response": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "qid": 72,
+   "stem": "預防大腸癌應養成規律排便習慣，改善便秘的穴位中，下列敘述共幾項正確？①天樞穴屬胃經，是\n大腸會穴　②老人虛秘可以選用氣海穴和關元穴　③照海穴屬腎經，可調理臟腑　④支溝穴可清利\n三焦氣機\n"
+  },
+  "py_times": 4.377703428268433
+ },
+ {
+  "qid_source": 73,
+  "qset_txt": "73.32歲婦女懷孕第一胎，懷孕週數14週，經常孕吐而來求診，下列何者為妊娠嘔吐的特效穴？\n \nA.中脘\nB.足三里\nC.公孫\nD.關元",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:27.724468752Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 3706650078,
+   "load_duration": 21819821,
+   "prompt_eval_count": 1269,
+   "prompt_eval_duration": 18409796,
+   "eval_count": 128,
+   "eval_duration": 3665392840,
+   "usage": {
+    "prompt_tokens": 1269,
+    "completion_tokens": 128,
+    "total_tokens": 1397
+   }
+  },
+  "response": {
+   "A": "中脘",
+   "B": "足三里",
+   "C": "公孫",
+   "D": "關元",
+   "qid": 73,
+   "stem": "73.\n32歲婦女懷孕第一胎，懷孕週數14週，經常孕吐而來求診，下列何者為妊娠嘔吐的特效穴？\n\nA.中脘\nB.足三里\nC.公孫\nD.關元"
+  },
+  "py_times": 3.709118366241455
+ },
+ {
+  "qid_source": 74,
+  "qset_txt": "74.45歲女性患者乾咳，痰少，夜咳，痰中帶血絲，掌心胸口微熱，顴紅，脈細數。若用針灸處方，下\n列那一組穴位比較適當？\n \nA.豐隆、大杼\nB.足三里、大椎\nC.尺澤、照海\nD.列缺、陽陵泉",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:32.750120421Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 5022819264,
+   "load_duration": 21584889,
+   "prompt_eval_count": 1295,
+   "prompt_eval_duration": 21933378,
+   "eval_count": 173,
+   "eval_duration": 4978050341,
+   "usage": {
+    "prompt_tokens": 1295,
+    "completion_tokens": 173,
+    "total_tokens": 1468
+   }
+  },
+  "response": {
+   "A": "A.豐隆、大杼",
+   "B": "B.足三里、大椎",
+   "C": "C.尺澤、照海",
+   "D": "D.列缺、陽陵泉",
+   "qid": 74,
+   "stem": "74.45歲女性患者乾咳，痰少，夜咳，痰中帶血絲，掌心胸口微熱，顴紅，脈細數。若用針灸處方，下\n列那一組穴位比較適當？\n\nA.豐隆、大杼\nB.足三里、大椎\nC.尺澤、照海\nD.列缺、陽陵泉"
+  },
+  "py_times": 5.025767087936401
+ },
+ {
+  "qid_source": 75,
+  "qset_txt": "75.下列那一組穴位最適合治療風熱感冒？\n \nA.魚際、後谿、三陰交\nB.魚際、曲池、外關\nC.尺澤、足三里、大陵\nD.尺澤、復溜、後谿",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:36.898052348Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 4144866452,
+   "load_duration": 21457164,
+   "prompt_eval_count": 1263,
+   "prompt_eval_duration": 17928920,
+   "eval_count": 143,
+   "eval_duration": 4104553559,
+   "usage": {
+    "prompt_tokens": 1263,
+    "completion_tokens": 143,
+    "total_tokens": 1406
+   }
+  },
+  "response": {
+   "A": "魚際、後谿、三陰交",
+   "B": "魚際、曲池、外關",
+   "C": "尺澤、足三里、大陵",
+   "D": "尺澤、復溜、後谿",
+   "qid": 75,
+   "stem": "下列那一組穴位最適合治療風熱感冒？\n\nA.魚際、後谿、三陰交\nB.魚際、曲池、外關\nC.尺澤、足三里、大陵\nD.尺澤、復溜、後谿"
+  },
+  "py_times": 4.147250175476074
+ },
+ {
+  "qid_source": 76,
+  "qset_txt": "76.治療嘔血、衄血，下列那一經穴最不適當？\n A.孔最\n\n\nB.陰郄\nC.郄門\nD.內關",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:39.690822854Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 2790128186,
+   "load_duration": 22682152,
+   "prompt_eval_count": 1241,
+   "prompt_eval_duration": 14023100,
+   "eval_count": 96,
+   "eval_duration": 2752301089,
+   "usage": {
+    "prompt_tokens": 1241,
+    "completion_tokens": 96,
+    "total_tokens": 1337
+   }
+  },
+  "response": {
+   "A": "孔最",
+   "B": "陰郄",
+   "C": "郄門",
+   "D": "內關",
+   "qid": 76,
+   "stem": "治療嘔血、衄血，下列那一經穴最不適當？\n A.孔最\nB.陰郄\nC.郄門\nD.內關"
+  },
+  "py_times": 2.7927205562591553
+ },
+ {
+  "qid_source": 77,
+  "qset_txt": "77.患者長期睡眠不佳，心中懊憹，脘悶噫氣、噯腐吞酸，苔厚膩，脈滑。治療選擇心經及背俞外，會\n再選擇那一組經脈之穴位？\n \nA.手少陽經、手厥陰經\nB.足陽明經、足太陰經\nC.足厥陰經、足少陰經\nD.手少陽經、手陽明經",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:43.324026787Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 5872313898,
+   "load_duration": 21630290,
+   "prompt_eval_count": 1318,
+   "prompt_eval_duration": 23725046,
+   "eval_count": 201,
+   "eval_duration": 5825765374,
+   "usage": {
+    "prompt_tokens": 1318,
+    "completion_tokens": 201,
+    "total_tokens": 1519
+   }
+  },
+  "response": {
+   "A": "手少陽經、手厥陰經",
+   "B": "足陽明經、足太陰經",
+   "C": "足厥陰經、足少陰經",
+   "D": "手少陽經、手陽明經",
+   "qid": 77,
+   "stem": "患者長期睡眠不佳，心中懊憹，脘悶噫氣、噯腐吞酸，苔厚膩，脈滑。治療選擇心經及背俞外，會\n再選擇那一組經脈之穴位？\n\nA.手少陽經、手厥陰經\nB.足陽明經、足太陰經\nC.足厥陰經、足少陰經\nD.手少陽經、手陽明經"
+  },
+  "py_times": 3.6327779293060303
+ },
+ {
+  "qid_source": 78,
+  "qset_txt": "78.有關陽痿針灸治療的敘述，下列何者正確？①陽痿主要與肝脾腎相關，可取任脈與足三陰經交會穴\n關元和足三陰交會穴三陰交治療　②選取肝經原穴與俞穴：太衝，可以達到疏肝理氣的作用　③可\n選用任脈與足三陰經的會穴，也是膀胱經的募穴：中極；中極及曲骨兩穴合用具有清利濕熱，培元\n理氣的作用　④蠡溝是肝經之絡穴，別走少陽膽經，也有疏肝理氣的作用\n \nA.僅①②③\nB.僅①③④\nC.僅②③④\nD.①②③④",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:50.387206577Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 7060708697,
+   "load_duration": 21933665,
+   "prompt_eval_count": 1409,
+   "prompt_eval_duration": 37316823,
+   "eval_count": 243,
+   "eval_duration": 6999994372,
+   "usage": {
+    "prompt_tokens": 1409,
+    "completion_tokens": 243,
+    "total_tokens": 1652
+   }
+  },
+  "response": {
+   "A": "僅①②③",
+   "B": "僅①③④",
+   "C": "僅②③④",
+   "D": "①②③④",
+   "qid": 78,
+   "stem": "有關陽痿針灸治療的敘述，下列何者正確？\n①陽痿主要與肝脾腎相關，可取任脈與足三陰經交會穴\n關元和足三陰交會穴三陰交治療　②選取肝經原穴與俞穴：太衝，可以達到疏肝理氣的作用　③可\n選用任脈與足三陰經的會穴，也是膀胱經的募穴：中極；中極及曲骨兩穴合用具有清利濕熱，培元\n理氣的作用　④蠡溝是肝經之絡穴，別走少陽膽經，也有疏肝理氣的作用\n "
+  },
+  "py_times": 7.063227891921997
+ },
+ {
+  "qid_source": 79,
+  "qset_txt": "79.有關針灸治療痛經的敘述，下列何者錯誤？\n \nA.八髎穴是治療腰痛與盆腔疾病重要穴位\nB.上髎穴是膀胱經與腎經交會穴\nC.若失血較少時，可用艾柱隔薑灸神闕、隱白、腰陽關\nD.陽陵泉為膽經合穴，太衝為肝經原穴，兩者配合可以疏肝利膽、理氣調經",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:05:58.243264623Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 7851999021,
+   "load_duration": 23233240,
+   "prompt_eval_count": 1330,
+   "prompt_eval_duration": 26262793,
+   "eval_count": 272,
+   "eval_duration": 7801287739,
+   "usage": {
+    "prompt_tokens": 1330,
+    "completion_tokens": 272,
+    "total_tokens": 1602
+   }
+  },
+  "response": {
+   "A": "八髎穴是治療腰痛與盆腔疾病重要穴位",
+   "B": "上髎穴是膀胱經與腎經交會穴",
+   "C": "若失血較少時，可用艾柱隔薑灸神闕、隱白、腰陽關",
+   "D": "陽陵泉為膽經合穴，太衝為肝經原穴，兩者配合可以疏肝利膽、理氣調經",
+   "qid": 79,
+   "stem": "有關針灸治療痛經的敘述，下列何者錯誤？\n\nA.八髎穴是治療腰痛與盆腔疾病重要穴位\nB.上髎穴是膀胱經與腎經交會穴\nC.若失血較少時，可用艾柱隔薑灸神闕、隱白、腰陽關\nD.陽陵泉為膽經合穴，太衝為肝經原穴，兩者配合可以疏肝利膽、理氣調經"
+  },
+  "py_times": 7.855529069900513
+ },
+ {
+  "qid_source": 80,
+  "qset_txt": "80.有關針灸治療小兒麻痺後遺症之敘述，下列何者錯誤？\n \nA.相當於現代醫學的「脊髓灰質炎」\nB.腕下垂可加針外關、陽谷、中泉\nC.舉肩困難可配肩井、肩髎、巨骨、天宗\nD.如肺熱所致，可加列缺、合谷，宣肺解表，可加風池為足太陽和陽維之會，散風解表",
+  "profiling": {
+   "model": "llama3.1:latest",
+   "created_at": "2025-10-02T18:06:05.671621932Z",
+   "done": true,
+   "done_reason": "stop",
+   "total_duration": 7425681420,
+   "load_duration": 21776940,
+   "prompt_eval_count": 1324,
+   "prompt_eval_duration": 24438353,
+   "eval_count": 255,
+   "eval_duration": 7378465045,
+   "usage": {
+    "prompt_tokens": 1324,
+    "completion_tokens": 255,
+    "total_tokens": 1579
+   }
+  },
+  "response": {
+   "A": "相當於現代醫學的「脊髓灰質炎\"",
+   "B": "腕下垂可加針外關、陽谷、中泉",
+   "C": "舉肩困難可配肩井、肩髎、巨骨、天宗",
+   "D": "如肺熱所致，可加列缺、合谷，宣肺解表，可加風池為足太陽和陽維之會，散風解表",
+   "qid": 80,
+   "stem": "有關針灸治療小兒麻痺後遺症之敘述，下列何者錯誤？\n\nA.相當於現代醫學的「脊髓灰質炎\"\nB.腕下垂可加針外關、陽谷、中泉\nC.舉肩困難可配肩井、肩髎、巨骨、天宗\nD.如肺熱所致，可加列缺、合谷，宣肺解表，可加風池為足太陽和陽維之會，散風解表"
+  },
+  "py_times": 7.42827582359314
+ }
+]

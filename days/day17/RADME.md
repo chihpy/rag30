@@ -1,0 +1,25 @@
+- build_exam_dataset
+    - `python build_exam_dataset.py`
+    - deliverables
+        - `./data/deliverables/exam_dataset.json`
+    - steps:
+        - convert answer_pdf to json
+            - `python ans2json.py`
+                - input: `./data/source/114_針灸科學_ans.pdf`
+                - output: `./data/temp/114_針灸科學_ans.json`
+        - convert exam_pdf to json
+            - `python exam2txt.py`
+                - input: `./data/source/114_針灸科學.pdf`
+                - output: `./data/temp/114_針灸科學.txt`
+            - `python txt2json_re.py`
+                - input: `./data/temp/114_針灸科學.txt`
+                - output: `./data/temp/114_針灸科學_re.json`
+
+- build_structured_output_data
+    - `python build_structured_output_dataset_v1.py`
+        - input: 
+            - './data/temp/114_針灸科學.txt`
+            - './data/temp/114_針灸科學_re.json`
+        - output:
+            - './data/deliverables/structured_output_dataset.json'
+

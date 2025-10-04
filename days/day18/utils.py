@@ -76,7 +76,7 @@ def get_llm(name='llama', json_mode=False):
         print('unknown model name: {name}')
     if name == 'mini':
         print(f"use openai model: {model_name}")
-        llm = OpenAI(model="gpt-5-mini", temperature=0, is_streaming=False, json_mode=json_mode)    
+        llm = OpenAI(model="gpt-5-mini", temperature=0, is_streaming=False)
     else:
         print(f"use ollama model: {model_name}")
         llm = Ollama(

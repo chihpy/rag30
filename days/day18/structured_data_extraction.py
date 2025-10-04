@@ -1,7 +1,5 @@
 """
 """
-
-
 import os
 import json
 import time
@@ -33,7 +31,7 @@ def run_tool(llm, tool, prompt_template, qid, query):
             resp, error_on_no_tool_call=False
         )
         result = tool_calls[0].model_dump()['tool_kwargs']
-        _ = resp.raw.pop('message')
+        _ = resp.raw.pop('message')  # this line in openai models will error
         rv = {
             'qid_source': qid,
             'qset_txt': query,
@@ -110,10 +108,11 @@ if __name__ == "__main__":
                 ret, qset = run_complete(llm, prompt, qid, query, j_mode)
             if not ret:
                 error_qid.append(idx)
+                rvs.append(qset)
             else:
                 rvs.append(qset)
 #            if idx == 3:
 #                break
         end = time.time()
-        json_dump(save_file_path, error_qid + rvs)
+        json_dump(save_file_path, rvs)
         print(f"total dur: {end - start:.2f} sec")

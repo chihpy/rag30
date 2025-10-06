@@ -1,0 +1,1642 @@
+{
+ "1": {
+  "reference_answer": {
+   "qid": "1",
+   "stem": "常見針灸配穴法中,所指的「四關穴」,為下列何穴位之組合?",
+   "A": "上星、日月",
+   "B": "合谷、太衝",
+   "C": "內關、外關",
+   "D": "上關、下關"
+  },
+  "response": {
+   "A": "三村台终飯加度。",
+   "B": "吃条台终飯加度。",
+   "C": "六南分。三村台终飯加度。",
+   "D": "一条台终飯加度。",
+   "ans": null,
+   "qid": 1,
+   "stem": "台九気终飯加度泩。吃的“六南分。，是一条有分题不别的宽器。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is nonsensical and does not extract the original MCQ: the stem and options are gibberish and unrelated to the source, and it incorrectly includes an 'ans' field (should be omitted per instructions). It fails to provide the correct choices or valid question text.",
+  "ispass": false
+ },
+ "2": {
+  "reference_answer": {
+   "qid": "2",
+   "stem": "依《靈樞.經脈》記載,「其直者,從巔入絡腦,還出別下項,循肩膊內,挾脊抵腰中」,指下列 何經的循行內容?",
+   "A": "膀胱經",
+   "B": "膽經",
+   "C": "胃經",
+   "D": "肝經"
+  },
+  "response": "",
+  "score": 1.0,
+  "feedback": "The generated answer is empty and does not provide the requested multiple-choice question extraction; it fails to return any content, so it is not useful or correct.",
+  "ispass": false
+ },
+ "3": {
+  "reference_answer": {
+   "qid": "3",
+   "stem": "依《靈樞.經脈》所記載:「是主筋所生病者,痔、瘧、狂、癲疾、頭顖、項痛,目黃、淚出,鼽 衄,項、背、腰、尻、膕、腨、腳皆痛,小趾不用」,指何經的病證內容?",
+   "A": "膀胱經",
+   "B": "膽經",
+   "C": "三焦經",
+   "D": "脾經"
+  },
+  "response": {
+   "A": "　　A.膀胱經",
+   "B": "　　B.膽經",
+   "C": "　　C.三焦經",
+   "D": "　　D.脾經",
+   "qid": 1,
+   "stem": "3.依《靈樞．經脈》所記載：　　“是主筋所生病者，痔、瘧、狂、癲疾、頭顖、項痛，目黃、淚出，鼽衄，項、背、腰、尻、膕、腨、腳皆痛，小趾不用”，指何經的病證內容？"
+  },
+  "score": 3.0,
+  "feedback": "生成答案正確擷取出題幹與選項並且未推測答案（符合要求），但有錯誤：qid 錯誤（原題為 3，生成結果為 1），且有些不必要的空白字元。因為內容主要正確但包含錯誤，給予中等評分。",
+  "ispass": false
+ },
+ "4": {
+  "reference_answer": {
+   "qid": "4",
+   "stem": "有關腧穴之國際譯名,外丘之編號為何?",
+   "A": "GB33",
+   "B": "GB34",
+   "C": "GB35",
+   "D": "GB36"
+  },
+  "response": {
+   "A": "GB33",
+   "B": "GB34",
+   "C": "GB35",
+   "D": "GB36",
+   "qid": "4",
+   "stem": "常东海纨く六台，割十是、。"
+  },
+  "score": 2.0,
+  "feedback": "The answer is partially relevant—the qid and all options match the original—but the question stem is corrupted and does not match the source text (it contains nonsensical characters). Because the stem is incorrect it fails to accurately extract the MCQ.",
+  "ispass": false
+ },
+ "5": {
+  "reference_answer": {
+   "qid": "5",
+   "stem": "下列何者為陰維脈之郄穴?",
+   "A": "交信",
+   "B": "築賓",
+   "C": "府舍",
+   "D": "腹哀"
+  },
+  "response": {
+   "A": "A. 交信",
+   "B": "B. 築賓",
+   "C": "C. 府舍",
+   "D": "D. 腹哀",
+   "ans": "",
+   "qid": "5",
+   "stem": "下列何者為陰維脈之郄穴?"
+  },
+  "score": 3.0,
+  "feedback": "Answer is relevant and mostly correctly extracted, but it violates instructions by including an 'ans' field (even though empty) instead of omitting the answer key when no answer is provided; also option values include redundant \"A. \" prefixes rather than just the option text.",
+  "ispass": false
+ },
+ "6": {
+  "reference_answer": {
+   "qid": "6",
+   "stem": "下列何者為足太陰脾經之絡穴?",
+   "A": "地機",
+   "B": "漏谷",
+   "C": "公孫",
+   "D": "太白"
+  },
+  "response": {
+   "A": "地機",
+   "B": "漏谷",
+   "C": "公孫",
+   "D": "太白",
+   "qid": "6",
+   "stem": "下列何者為足太陰脾經之絡穴？"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer correctly extracted the MCQ with the same qid, stem, and choices as the reference. It did not invent an answer key, complying with the instruction to omit answers when not provided, so it is fully correct and relevant.",
+  "ispass": true
+ },
+ "7": {
+  "reference_answer": {
+   "qid": "7",
+   "stem": "依《難經.六十八難》,下列何穴主心下滿?",
+   "A": "前谷",
+   "B": "液門",
+   "C": "湧泉",
+   "D": "跗陽"
+  },
+  "response": {
+   "A": "前谷",
+   "B": "液門",
+   "C": "湧泉",
+   "D": "跗陽",
+   "qid": "7",
+   "stem": "依《難經．六十八難》，下列何穴主心下滿？"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer matches the reference: contains the same qid, stem, and options (A–D) and correctly omits an answer key as required.",
+  "ispass": true
+ },
+ "8": {
+  "reference_answer": {
+   "qid": "8",
+   "stem": "有關足太陰脾經的重要腧穴,下列敘述何者正確?",
+   "A": "井穴為大都穴",
+   "B": "俞穴為太白穴",
+   "C": "郄穴為漏谷穴",
+   "D": "絡穴為地機穴"
+  },
+  "response": {
+   "A": "東封天形的当前芳食封切是有言常浦形的适合芳食封切、台对芳食封切、張常芳食封切、浦形芳食封切、台对芳食封切、張常芳食封切",
+   "B": "浦形芳食封切是有言常浦形的适合芳食封切、台对芳食封切、張常芳食封切、浦形芳食封切、台对芳食封切、張常芳食封切",
+   "C": "浦形芳食封切是有言常浦形的适合芳食封切、台对芳食封切、張常芳食封切、浦形芳食封切、台对芳食封切、張常芳食封切",
+   "D": "浦形芳食封切是有言常浦形的适合芳食封切、台对芳食封切、張常芳食封切、浦形芳食封切、台对芳食封切、張常芳食封切",
+   "ans": null,
+   "qid": 8,
+   "stem": "常东浦形素台的适合芳食封切，一条明规是化王。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: the stem and options are nonsensical gibberish that do not match the original MCQ, it fails to extract the correct question text and choices, and thus does not fulfill the user's request.",
+  "ispass": false
+ },
+ "9": {
+  "reference_answer": {
+   "qid": "9",
+   "stem": "下列穴位屬三焦經與膽經的交會穴共有幾個?1臑會 2顴髎 3秉風 4聽宮 5耳門",
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "response": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "qid": "9",
+   "stem": "下列穴位屬三焦經與膽經的交會穴共有幾個？\n\n①臑會　②顴髎　③秉風　④聽宮　⑤耳門\n\n"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer correctly extracted the MCQ: it includes the qid, a clear stem listing the five items, and the four choice labels (A–D). It omits any answer key as required (since the original did not provide the correct answer), matching the reference and meeting the instructions.",
+  "ispass": true
+ },
+ "10": {
+  "reference_answer": {
+   "qid": "10",
+   "stem": "有關手少陰心經的「通里穴」,下列敘述共幾項正確?1手少陰心經的郄穴 2馬丹陽天星十二穴 之一 3距離靈道穴五分 4配內關,治心絞痛",
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "response": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "qid": "10",
+   "stem": "有關手少陰心經的「通里穴」，下列敘述共幾項正確？①手少陰心經的郄穴　②馬丹陽天星十二穴之一　③距離靈道穴五分　④配內關，治心絞痛\n"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer correctly extracted the MCQ (stem, qid, and all four options) without providing or guessing a correct-answer key, matching the user instruction and the reference.",
+  "ispass": true
+ },
+ "11": {
+  "reference_answer": {
+   "qid": "11",
+   "stem": "下列何穴較不適用於治療落枕?",
+   "A": "後谿",
+   "B": "外關",
+   "C": "通里",
+   "D": "肩中俞"
+  },
+  "response": {
+   "A": "後谿",
+   "B": "外關",
+   "C": "通里",
+   "D": "肩中俞",
+   "qid": "11",
+   "stem": "下列何穴較不適用於治療落枕？"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer exactly matches the reference: it includes qid, stem, and all four choices with correct text and omits the answer as required. The field order differs but content is identical and appropriate.",
+  "ispass": true
+ },
+ "12": {
+  "reference_answer": {
+   "qid": "12",
+   "stem": "下列何穴最適合治療瘰癧?",
+   "A": "小海",
+   "B": "尺澤",
+   "C": "曲澤",
+   "D": "天井"
+  },
+  "response": {
+   "A": "小海",
+   "B": "尺澤",
+   "C": "曲澤",
+   "D": "天井",
+   "qid": 12,
+   "stem": "下列何穴最適合治療瘰癧？"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer correctly reproduces the stem and all choices, omits any answer field as required, and only differs in qid type/ordering which does not affect correctness.",
+  "ispass": true
+ },
+ "13": {
+  "reference_answer": {
+   "qid": "13",
+   "stem": "肝經的五腧穴為下列那一組?",
+   "A": "中都、太衝、行間、曲泉、大敦",
+   "B": "中封、行間、太衝、大敦、曲泉",
+   "C": "大敦、蠡溝、中封、行間、太衝",
+   "D": "太衝、曲泉、大敦、陰包、行間"
+  },
+  "response": {
+   "A": "A.中都、太衝、行間、曲泉、大敦",
+   "B": "B.中封、行間、太衝、大敦、曲泉",
+   "C": "C.大敦、蠡溝、中封、行間、太衝",
+   "D": "D.太衝、曲泉、大敦、陰包、行間",
+   "qid": "13",
+   "stem": "肝經的五腧穴為下列那一組？"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer correctly extracted the MCQ with qid, stem, and all four options, and it did not add or guess an answer. The slight redundancy of option labels is minor and does not affect correctness.",
+  "ispass": true
+ },
+ "14": {
+  "reference_answer": {
+   "qid": "14",
+   "stem": "有關足陽明胃經的五腧穴,下列敘述何者錯誤?",
+   "A": "合穴為足三里",
+   "B": "俞穴為解谿",
+   "C": "滎穴為內庭",
+   "D": "井穴為厲兌"
+  },
+  "response": {
+   "A": "绋内和可能常务内的典分。",
+   "B": "绋内和可能常务内的六家天。",
+   "C": "绋内和可能常务内的六家天。",
+   "D": "绋内和可能常务内的六家天。",
+   "ans": "",
+   "qid": 14,
+   "stem": "带为洏黄谄约的五分务内，了合的说回是带为六家天"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: the stem and options are garbled nonsensical Chinese, they do not match the original question, the required fields (qid, stem, A–D) are incorrect, and it includes an 'ans' field (should be omitted when no answer is provided).",
+  "ispass": false
+ },
+ "15": {
+  "reference_answer": {
+   "qid": "15",
+   "stem": "有關商丘穴之敘述,下列何者錯誤?",
+   "A": "主治婦人乳疾",
+   "B": "主治胃脘痛",
+   "C": "在足內踝骨下微前陷中,當足腕之橫紋端,取穴時,將足大指翹起,其陷凹處即現",
+   "D": "從足腕中解谿穴往內側橫量八分即中封穴,從中封穴往內踝下際橫量八分,即商丘穴"
+  },
+  "response": {
+   "A": "举平海程的做诹，了企难是一代锓姐?",
+   "B": "举平海程的做诹，了企难是一代锓姐?",
+   "C": "举平海程的做诹，了企难是一代锓姐?",
+   "D": "举平海程的做诹，了企难是一代锓姐?",
+   "ans": "D",
+   "qid": 15,
+   "stem": "平东海程的做诹，了企难是一代锓姐?"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is largely nonsense and does not extract the original MCQ correctly: options and stem are garbled, it incorrectly includes a guessed answer ('ans': 'D') despite the instruction to omit answers when none provided, and it fails to match the reference/original content.",
+  "ispass": false
+ },
+ "16": {
+  "reference_answer": {
+   "qid": "16",
+   "stem": "有關本神穴的敘述,下列選項何者正確?1上入髮際一寸。從神庭外開二寸處 2曲差旁一寸五分  3可治頭痛,目眩等 4配百會、人中、十宣,治中風不省人事",
+   "A": "124",
+   "B": "123",
+   "C": "134",
+   "D": "234"
+  },
+  "response": "",
+  "score": 1.0,
+  "feedback": "生成的答案為空，未依使用者要求從原始文字擷取選擇題，也未包含題號、題幹或選項，完全不符要求。",
+  "ispass": false
+ },
+ "17": {
+  "reference_answer": {
+   "qid": "17",
+   "stem": "有關任脈穴位之敘述,下列何者正確?",
+   "A": "玉堂穴在膻中穴下一寸六分",
+   "B": "華蓋穴在鎖骨正中下方",
+   "C": "華蓋穴在天突穴下一寸六分",
+   "D": "天突穴可治哮喘"
+  },
+  "response": {
+   "A": "A.玉堂穴在膻中穴下一寸六分",
+   "B": "B.華蓋穴在鎖骨正中下方",
+   "C": "C.華蓋穴在天突穴下一寸六分",
+   "D": "D.天突穴可治哮喘",
+   "qid": "17",
+   "stem": "有關任脈穴位之敘述，下列何者正確？"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer correctly extracted the MCQ fields (qid, stem, options A–D) exactly from the source, omitted any answer key as required, and matches the reference content.",
+  "ispass": true
+ },
+ "18": {
+  "reference_answer": {
+   "qid": "18",
+   "stem": "大椎穴位於下列何處?",
+   "A": "第1頸椎下",
+   "B": "第6頸椎下",
+   "C": "第7頸椎下",
+   "D": "第1胸椎下"
+  },
+  "response": {
+   "A": "丁回缩求一。",
+   "B": "临回缩求一。",
+   "C": "临回缩求丁。",
+   "D": "丁贷求一。",
+   "qid": 18,
+   "stem": "王当訽锩求了三回缩求一。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is incorrect and irrelevant: the stem is garbled, the answer choices do not match the original options, and it outputs nonsensical text instead of faithfully extracting the MCQ.",
+  "ispass": false
+ },
+ "19": {
+  "reference_answer": {
+   "qid": "19",
+   "stem": "下列何種方式不是轉針迎隨補瀉法中的瀉法?",
+   "A": "捻轉角度大",
+   "B": "頻率快",
+   "C": "時間短",
+   "D": "右轉(逆時針轉)"
+  },
+  "response": {
+   "A": "捻轉角度大",
+   "B": "頻率快",
+   "C": "時間短",
+   "D": "右轉（逆時針轉）",
+   "qid": "19",
+   "stem": "下列何種方式不是轉針迎隨補瀉法中的瀉法？"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer correctly extracted the MCQ fields (qid, stem, options A–D), preserves the original wording and punctuation, and did not invent or include an answer key, matching the reference.",
+  "ispass": true
+ },
+ "20": {
+  "reference_answer": {
+   "qid": "20",
+   "stem": "下列何者是《刺灸心法要訣》的禁針穴?",
+   "A": "上關",
+   "B": "氣衝",
+   "C": "中府",
+   "D": "俞府"
+  },
+  "response": {
+   "A": "上關",
+   "B": "氣衝",
+   "C": "中府",
+   "D": "俞府",
+   "qid": "20",
+   "stem": "下列何者是《刺灸心法要訣》的禁針穴？"
+  },
+  "score": 5.0,
+  "feedback": "生成答案與參考答案相符：包含相同的 qid、題幹與選項（A–D），且未提供答案欄，符合題目要求。",
+  "ispass": true
+ },
+ "21": {
+  "reference_answer": {
+   "qid": "21",
+   "stem": "依《靈樞.九針十二原》,有關鈹針的敘述,下列何者錯誤?",
+   "A": "長四寸",
+   "B": "廣五分",
+   "C": "末如劍鋒",
+   "D": "以取大膿"
+  },
+  "response": {
+   "A": "今月小元的量横元答右體、南在海注、一分的见关",
+   "B": "巴答右體、南在海注、丁分的见关",
+   "C": "南在海注、一分的见关",
+   "D": "南在海注",
+   "qid": "21",
+   "stem": "笔义、龙海小右化，合用量横元的把见的明称，三代、巴答右體、南在海注、一分的见关。"
+  },
+  "score": 1.0,
+  "feedback": "生成答案與原始題目內容完全不符且多處為無意義或錯置文字，未正確擷取題幹與選項（應為 A: 長四寸 B: 廣五分 C: 末如劍鋒 D: 以取大膿），因此不相關且錯誤。",
+  "ispass": false
+ },
+ "22": {
+  "reference_answer": {
+   "qid": "22",
+   "stem": "有關「艾」之敘述,下列何者正確?",
+   "A": "艾的成分,揮發油占2%,主要為苦艾醇及苦艾醛",
+   "B": "春、夏之候,梢上開褐色之小花,筒狀花冠",
+   "C": "艾草於中國各地皆有出產,而臺灣所產屬於上品效果佳",
+   "D": "艾屬菊科植物,多年生草本"
+  },
+  "response": {
+   "A": "艾的成分，揮發油占2%，主要為苦艾醇及苦艾醛",
+   "B": "李，星是的方，機终发圣已分频的服合四",
+   "C": "句苹工到京场公安代，为山终是服合深",
+   "D": "句手默化李种外安得，为公安终服合",
+   "qid": 22,
+   "stem": "平东是“取”的答合，代不有说明？"
+  },
+  "score": 2.0,
+  "feedback": "The generated answer is partially relevant but largely incorrect: option A is copied correctly, but options B–D and the stem are gibberish and do not match the original question. It fails to extract the MCQ properly and does not preserve the provided choices or format, so it does not satisfy the task.",
+  "ispass": false
+ },
+ "23": {
+  "reference_answer": {
+   "qid": "23",
+   "stem": "有關艾的品質鑑定,下列何者為優質品?",
+   "A": "質細",
+   "B": "褐色",
+   "C": "含揮發油較多",
+   "D": "火力較大者"
+  },
+  "response": {
+   "A": "質細",
+   "B": "褐色",
+   "C": "含揮發油較多",
+   "D": "火力較大者",
+   "qid": "23",
+   "stem": "有關艾的品質鑑定，下列何者為優質品？"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer accurately extracted the MCQ fields (qid, stem, options A–D) exactly matching the reference, omitted any answer key as required, and preserved the original wording—thus fully correct and relevant.",
+  "ispass": true
+ },
+ "24": {
+  "reference_answer": {
+   "qid": "24",
+   "stem": "臨床上的拔罐療法之濕杯術,下列何者不宜使用?",
+   "A": "肩膀痠痛患者",
+   "B": "腰部扭傷患者",
+   "C": "虛弱的患者",
+   "D": "運動急性傷害的患者"
+  },
+  "response": {
+   "A": "铉区苹得性人",
+   "B": "贫南苹起的人",
+   "C": "种子性注了的人",
+   "D": "回台施消的人",
+   "qid": 24,
+   "stem": "等永的抠帽环注是代的回台化。一地有五切性的人、三层苹起的人、种子性注了的人、回台施消的人"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: it contains garbled/gibberish text, does not reproduce the original stem or options, and fails to extract the MCQ as requested.",
+  "ispass": false
+ },
+ "25": {
+  "reference_answer": {
+   "qid": "25",
+   "stem": "有關中風患者使用頭皮針之技術,下列敘述何者錯誤?",
+   "A": "適用於中風後半身不遂之患者",
+   "B": "撚針同時不建議病人做患肢運動,以免增加出血可能性",
+   "C": "沿頭皮下刺入五分至一寸",
+   "D": "根據患者臨床症狀選取運動區、語言區或足運感區等針刺治療"
+  },
+  "response": {
+   "A": "B.撚針同時不建議病人做患肢運動，以免增加出血可能性",
+   "B": "C.沿頭皮下刺入五分至一寸",
+   "C": "D.根據患者臨床症狀選取運動區、語言區或足運感區等針刺治療",
+   "D": "A.適用於中風後半身不遂之患者",
+   "qid": 25,
+   "stem": "有關中風患者使用頭皮針之技術，下列敘述何者錯誤？"
+  },
+  "score": 3.0,
+  "feedback": "The generated answer is relevant and includes the stem, qid, and all four option texts, and it correctly omits an answer field. However the option labels are incorrectly shifted (each option value is labeled with a different letter and repeats the original letter in the text), so the option mapping is wrong — a formatting/labeling error rather than a content omission.",
+  "ispass": false
+ },
+ "26": {
+  "reference_answer": {
+   "qid": "26",
+   "stem": "患者中風後一側肢體癱瘓,其針灸治療穴組,不包括下列何者?",
+   "A": "中脘、心俞",
+   "B": "肩髃、崑崙",
+   "C": "曲池、合谷",
+   "D": "環跳、足三里"
+  },
+  "response": {
+   "A": "中直,家寸",
+   "B": "钷黄,南加",
+   "C": "更座,合尺",
+   "D": "绱路,起三园",
+   "qid": "26",
+   "stem": "私人前漸天合钷師的福园芫飯化,仅台览服区品工分,一些条的系给名别，不截吗台览服区品工分:\n\nA.中直,家寸\nB.钷黄,南加\nC.更座,合尺\nD.绱路,起三园"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer fails to accurately extract the MCQ: the stem is garbled and the options are nonsensical and do not match the original text. It does not preserve the original question or choices, so it is incorrect and irrelevant.",
+  "ispass": false
+ },
+ "27": {
+  "reference_answer": {
+   "qid": "27",
+   "stem": "以「五十肩」之疼痛部位為基礎,臨床上循經取穴之敘述,下列何者錯誤?",
+   "A": "以肩前部疼痛為主,治療可選太陰經為主",
+   "B": "以肩外側疼痛為主,治療可選少陽經為主",
+   "C": "以肩後部疼痛為主,治療可選厥陰經為主",
+   "D": "以肩外側疼痛為主,治療可選陽明經為主"
+  },
+  "response": {
+   "A": "是台三苹功为尊等、勓小为递注提现",
+   "B": "是台三苹功为尊等、勓小为递注提现",
+   "C": "是台三苹功为尊等、勓小为递注提现",
+   "D": "是台三苹功为尊等、勓小为递注提现",
+   "qid": "28",
+   "stem": "27. 以 \"丽十迊尊等。代的回注利一中會为台三苹功为尊等、勓小为递注提现。代的回注利、台三苹功、尊等、勓小为递注提现。代的回注利、台三苹功、尊等、勓小为递注提现。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: it returns gibberish text, corrupts the stem, uses the wrong qid, and fails to extract the MCQ options correctly (no valid stem/options as in the reference).",
+  "ispass": false
+ },
+ "28": {
+  "reference_answer": {
+   "qid": "28",
+   "stem": "48歲女性患者,診斷為類風濕性關節炎已2年,主訴四肢肩膀至手指遊走性疼痛,夜間及氣候變化 疼痛加重。下列敘述何者錯誤?",
+   "A": "由於體虛感受風寒濕邪留滯",
+   "B": "腫痛時,可用灸療",
+   "C": "膝關節疼痛,選用犢鼻",
+   "D": "肩關節疼痛,針刺肩髃、肩井"
+  },
+  "response": {
+   "A": "由於體虛感受風寒濕邪留滯",
+   "B": "腫痛時，可用灸療",
+   "C": "膝關節疼痛，選用犢鼻",
+   "D": "肩關節疼痛，針刺肩髃、肩井",
+   "qid": 1,
+   "stem": "下列敘述何者錯誤？\n\n28.48歲女性患者，診斷為類風濕性關節炎已2年，主訴四肢肩膀至手指遊走性疼痛，夜間及氣候變化疼痛加重。\n\nA.由於體虛感受風寒濕邪留滯\nB.腫痛時，可用灸療\nC.膝關節疼痛，選用犢鼻\nD.肩關節疼痛，針刺肩髃、肩井"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer correctly extracted the MCQ (stem and all four options) and did not invent an answer. It matches the reference content; the only minor difference is the qid value, which does not affect correctness.",
+  "ispass": true
+ },
+ "29": {
+  "reference_answer": {
+   "qid": "29",
+   "stem": "依《刺灸心法要訣》:「牙齒疼痛,手腕無力疼痛,及咳嗽風痰,偏正頭疼」諸症,宜取下列何 穴?",
+   "A": "列缺",
+   "B": "尺澤",
+   "C": "經渠",
+   "D": "太淵"
+  },
+  "response": {
+   "A": "列缺",
+   "B": "尺澤",
+   "C": "經渠",
+   "D": "太淵",
+   "qid": "29",
+   "stem": "依《刺灸心法要訣》：　　牙齒疼痛，手腕無力疼痛，及咳嗽風痰，偏正頭疼諸症，宜取下列何穴？"
+  },
+  "score": 5.0,
+  "feedback": "The generated MCQ matches the reference exactly: qid, stem, and all four options are correctly extracted and formatted, and no answer key is included (as required).",
+  "ispass": true
+ },
+ "30": {
+  "reference_answer": {
+   "qid": "30",
+   "stem": "下列何種疾病不是便秘的病因?",
+   "A": "甲狀腺功能亢進症",
+   "B": "結腸直腸腫瘤",
+   "C": "巨結腸症",
+   "D": "脊髓損傷"
+  },
+  "response": {
+   "A": "桌名化得加常",
+   "B": "给可己对常",
+   "C": "重尺现",
+   "D": "车嶁消交",
+   "qid": 30,
+   "stem": "简小为发深的六交は？\nB.终體構现"
+  },
+  "score": 2.0,
+  "feedback": "The generated answer is mostly gibberish and does not correctly extract the question stem or options from the source. It fails to reproduce the original MCQ content (answers are corrupted and stem is incorrect), so it is relevant in intent but incorrect and unusable.",
+  "ispass": false
+ },
+ "31": {
+  "reference_answer": {
+   "qid": "31",
+   "stem": "有關急性哮喘的針灸治療,下列敘述何者錯誤?",
+   "A": "痰多加孔最、豐隆",
+   "B": "灸中脘、脾俞",
+   "C": "強刺激,留針30分鐘,每隔5~10分鐘撚針1次",
+   "D": "嚴重發作時,須配合現代醫學的治療方法做緊急處理"
+  },
+  "response": {
+   "A": "素度可工有六小刪已带布",
+   "B": "动为南，苹对",
+   "C": "化可工，现得30分秒，前布5、三分终工",
+   "D": "明动发起时，手代种天化的服务经分",
+   "qid": 31,
+   "stem": "简义得飕気的发起有观工，为合、对常的经分。》》A. 素度可工有六小刪已带布》》B. 动为南，苹对》》C. 化可工，现得30分秒，前布5、三分终工》》D. 明动发起时，手代种天化的服务经分工》"
+  },
+  "score": 1.0,
+  "feedback": "生成的答案為無意義的亂碼句子，未正確擷取原題目的題幹與選項（與參考答案完全不符），因此不相關且不正確。",
+  "ispass": false
+ },
+ "32": {
+  "reference_answer": {
+   "qid": "32",
+   "stem": "下列何穴最不適合用於治療小兒遺尿?",
+   "A": "關元",
+   "B": "命門",
+   "C": "脾俞",
+   "D": "腎俞"
+  },
+  "response": {
+   "A": "關元",
+   "B": "命門",
+   "C": "脾俞",
+   "D": "腎俞",
+   "qid": "32",
+   "stem": "下列何穴最不適合用於治療小兒遺尿？"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer correctly extracts the MCQ (qid, stem, and options) exactly as the reference, omitting any answer field as required; it is relevant and fully correct.",
+  "ispass": true
+ },
+ "33": {
+  "reference_answer": {
+   "qid": "33",
+   "stem": "28歲李先生搬家工人,工作需要搬負重物,半年前陰囊腫脹疼痛,少腹牽連疼痛,立則下墜,臥則 入腹,初起疼痛較甚,近日不覺痛楚,僅陰囊偏大,下列敘述何者錯誤?",
+   "A": "中醫統稱為疝氣,發病多與任脈、足厥陰肝經有關",
+   "B": "此患證型稱為狐疝,是足厥陰經氣滯血瘀而致病",
+   "C": "處方可取關元、三角灸、大敦,以灸法為主",
+   "D": "肝經繞絡陰器,大敦為治疝氣常用穴"
+  },
+  "response": {
+   "A": "A.中醫統稱為疝氣，發病多與任脈、足厥陰肝經有關",
+   "B": "B.此患證型稱為狐疝，是足厥陰經氣滯血瘀而致病",
+   "C": "C.處方可取關元、三角灸、大敦，以灸法為主",
+   "D": "D.肝經繞絡陰器，大敦為治疝氣常用穴",
+   "ans": "",
+   "qid": 1,
+   "stem": "下列敘述何者錯誤？"
+  },
+  "score": 2.0,
+  "feedback": "相關但不正確／不完整。生成答案未擷取完整題幹（只留「下列敘述何者錯誤？」而省略病史與描述），未遵守指示完全省略答案欄位（插入了空的 'ans' 欄位而非移除），且改變 qid，僅擷取選項文字（且每個選項前重複標記 A./B./C./D.）。因此未完整符合題目要求。",
+  "ispass": false
+ },
+ "34": {
+  "reference_answer": {
+   "qid": "34",
+   "stem": "「針灸復興」或「針灸熱潮」是起源於那個事件被國際媒體重視報導,進一步引起一系列的學術研 究,始被廣泛利用?",
+   "A": "二次世界大戰爆發後",
+   "B": "人類登陸月球後",
+   "C": "針灸麻醉實驗成功後",
+   "D": "2015年屠呦呦拿到諾貝爾生理學或醫學獎後"
+  },
+  "response": "",
+  "score": 1.0,
+  "feedback": "生成答案為空白，未擷取出任何題目或選項，未依要求提供 MCQ，因而不符合任務。",
+  "ispass": false
+ },
+ "35": {
+  "reference_answer": {
+   "qid": "35",
+   "stem": "依「主客原絡」之原則,肺經病咳喘,可以先取太淵穴,再配何穴位?",
+   "A": "列缺",
+   "B": "溫溜",
+   "C": "偏歷",
+   "D": "孔最"
+  },
+  "response": {
+   "A": "A. 列缺",
+   "B": "B. 溫溜",
+   "C": "C. 偏歷",
+   "D": "D. 孔最",
+   "qid": "35",
+   "stem": "依 “主客原絡” 之原則，肺經病咳喘，可以先取太淵穴，再配何穴位？"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer correctly extracted the MCQ with qid, stem, and all four options, did not invent an answer, and matches the reference content.",
+  "ispass": true
+ },
+ "36": {
+  "reference_answer": {
+   "qid": "36",
+   "stem": "《傷寒論》原著中所記載之穴位,不包括下列何者?1風門 2脾俞 3風府 4肝俞 5京門",
+   "A": "134",
+   "B": "125",
+   "C": "234",
+   "D": "245"
+  },
+  "response": "",
+  "score": 1.0,
+  "feedback": "The generated answer is empty / missing, so it fails to provide the requested MCQ extraction and does not match the reference; therefore it is not relevant or correct.",
+  "ispass": false
+ },
+ "37": {
+  "reference_answer": {
+   "qid": "37",
+   "stem": "根據《靈樞.經脈》的原文,古人敘述經絡分布的形容詞共有三十九個字詞,下列何者錯誤?",
+   "A": "起:本經的起點",
+   "B": "支:本經的支脈",
+   "C": "趨:很快速的走過本經的一段",
+   "D": "貫:沿著某組織器官屈曲而行"
+  },
+  "response": "",
+  "score": 1.0,
+  "feedback": "The generated answer is empty / missing; it fails to provide the requested multiple-choice question extraction.",
+  "ispass": false
+ },
+ "38": {
+  "reference_answer": {
+   "qid": "38",
+   "stem": "切脈為中醫診病之重要手段,有關脈動部位之敘述,下列何者錯誤?",
+   "A": "寸口者,脈之大會,手太陰之脈動",
+   "B": "兩額動脈為足少陽脈氣所行",
+   "C": "兩頰動脈為手足陽明脈氣所行",
+   "D": "耳前動脈為手陽明脈氣所行"
+  },
+  "response": {
+   "A": "单標人,海注是海的大六做，手台种名的海注加得",
+   "B": "有布分海注是倲小卣武秏狼的海注加得",
+   "C": "有布分海注是手台种名的海注加得",
+   "D": "机前海注是手台种名的海注加得",
+   "qid": "38",
+   "stem": "笔海是三国语小未化會的亡台目,一条一面名答的明称，事一条一面对。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and gibberish, it does not reproduce the original MCQ or its options, misstates the stem and options, and fails to follow the instruction to extract the question (without inventing answers).",
+  "ispass": false
+ },
+ "39": {
+  "reference_answer": {
+   "qid": "39",
+   "stem": "根據《靈樞.經脈》,關於足陽明胃經的循行及病候敘述,下列何者錯誤?",
+   "A": "其支者,從大迎前下人迎,循喉嚨,入缺盆",
+   "B": "下膝臏中,下循脛內廉,下足跗,入大趾內間",
+   "C": "所生病者......頸腫喉痹,大腹水腫,膝臏腫痛",
+   "D": "是動則病,灑灑振寒,善呻數欠,顏黑"
+  },
+  "response": {
+   "A": "其支者，從大迎前下人迎，循喉嚨，入缺盆",
+   "B": "下膝臏中，下循脛內廉，下足跗，入大趾內間",
+   "C": "所生病者……頸腫喉痹，大腹水腫，膝臏腫痛",
+   "D": "是動則病，灑灑振寒，善呻數欠，顏黑",
+   "qid": "40",
+   "stem": "根據《靈樞．經脈》，關於足陽明胃經的循行及病候敘述，下列何者錯誤？"
+  },
+  "score": 4.0,
+  "feedback": "生成的選擇題與原文內容一致，題幹與四個選項正確擷取，且未任意推測答案（符合「若無提供答案則省略答案欄位」的要求）。唯一小錯誤是將題號改為 \"qid\": \"40\"（原文為39），應保留原始題號。",
+  "ispass": true
+ },
+ "40": {
+  "reference_answer": {
+   "qid": "40",
+   "stem": "根據《靈樞.經脈》,關於手太陽小腸經的循行及病候敘述,下列何者錯誤?",
+   "A": "起於小指次指之端,循手外側上腕,出踝中",
+   "B": "其支者,從缺盆,循頸,上頰,至目銳眥,卻入耳中",
+   "C": "是動則病,嗌痛,頷腫,不可以顧,肩似拔,臑似折",
+   "D": "是主液所生病者"
+  },
+  "response": {
+   "A": "起於小指次指之端，循手外側上腕，出踝中",
+   "B": "其支者，從缺盆，循頸，上頰，至目銳眥，卻入耳中",
+   "C": "是動則病，嗌痛，頷腫，不可以顧，肩似拔，臑似折",
+   "D": "是主液所生病者",
+   "qid": "41",
+   "stem": "根據《靈樞．經脈》，關於手太陽小腸經的循行及病候敘述，下列何者錯誤？\n\nA.起於小指次指之端，循手外側上腕，出踝中\nB.其支者，從缺盆，循頸，上頰，至目銳眥，卻入耳中\nC.是動則病，嗌痛，頷腫，不可以顧，肩似拔，臑似折\nD.是主液所生病者"
+  },
+  "score": 4.0,
+  "feedback": "擷取出的題幹與四個選項完整且與原文內容一致，且沒有加入未提供的答案（符合要求）。但有小錯誤：qid 改為 '41'，應為原始的 '40'，因此未完全正確。",
+  "ispass": true
+ },
+ "41": {
+  "reference_answer": {
+   "qid": "41",
+   "stem": "關於經別、別絡、經筋、皮部的敘述,下列何者錯誤?",
+   "A": "十二經別在別行之後,皆復還於本經",
+   "B": "十二經各有一別絡,另加上任督二脈之絡,以及脾之大絡,合稱為十五別絡",
+   "C": "經筋皆起於手或足末端,行經四肢後,終止於軀幹或頸項頭面部",
+   "D": "皮部受經脈中氣血濡養,其區域劃分大致和正經的循行部位一致"
+  },
+  "response": {
+   "A": "先子为得加。六台的为得加。本朿的为得加。",
+   "B": "先子为得加。六台的为得加。本朿的为得加。",
+   "C": "先子为得加。六台的为得加。本朿的为得加。",
+   "D": "先子为得加。六台的为得加。本朿的为得加。",
+   "ans": "",
+   "qid": "41",
+   "stem": "笔为得发，崇起。得加。朿泩。璼角的明组，代一目锓度？"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: it outputs garbled, nonsensical text for the stem and options that do not match the original MCQ source, fails to preserve the original question and choices, and thus does not fulfill the task of extracting the MCQ.",
+  "ispass": false
+ },
+ "42": {
+  "reference_answer": {
+   "qid": "42",
+   "stem": "針灸腧穴「中行上腹部」在人體的分布,下列何者錯誤?",
+   "A": "水道",
+   "B": "建里",
+   "C": "水分",
+   "D": "鳩尾"
+  },
+  "response": {
+   "A": "水路",
+   "B": "学楽",
+   "C": "水六",
+   "D": "龙巰",
+   "qid": "42",
+   "stem": "台尺测踪终飯皮 利种三角前靡工 圣代的合台，一条了锓度?"
+  },
+  "score": 1.0,
+  "feedback": "生成的回答與原始題目不符且內容多處錯誤：題幹變成無意義亂碼，選項被錯誤替換（非原文的 A–D），未忠實擷取原始題目，故評為最低分。",
+  "ispass": false
+ },
+ "43": {
+  "reference_answer": {
+   "qid": "43",
+   "stem": "病患主訴呼吸喘促、咳嗽頻發,依據主客原絡法取穴,下列何者正確?",
+   "A": "合谷、列缺",
+   "B": "太谿、飛揚",
+   "C": "太淵、偏歷",
+   "D": "陽池、內關"
+  },
+  "response": {
+   "A": "合谷、列缺",
+   "B": "太谿、飛揚",
+   "C": "太淵、偏歷",
+   "D": "陽池、內關",
+   "qid": "43",
+   "stem": "依據主客原絡法取穴，下列何者正確？"
+  },
+  "score": 4.0,
+  "feedback": "The generated MCQ correctly captured the qid and all four options and kept the question intent, but the stem omitted the patient complaint (\"病患主訴呼吸喘促、咳嗽頻發\") present in the original, so it's mostly correct but not an exact extraction.",
+  "ispass": true
+ },
+ "44": {
+  "reference_answer": {
+   "qid": "44",
+   "stem": "下列何穴位不是位於第一、二肋間的水平高度上?",
+   "A": "庫房",
+   "B": "彧中",
+   "C": "雲門",
+   "D": "華蓋"
+  },
+  "response": {
+   "A": "庫房",
+   "B": "彧中",
+   "C": "雲門",
+   "D": "華蓋",
+   "qid": "44",
+   "stem": "下列何穴位不是位於第一、二肋間的水平高度上？"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer correctly extracts the MCQ with qid, stem, and options, matches the reference content, and appropriately omits the answer field as none was provided.",
+  "ispass": true
+ },
+ "45": {
+  "reference_answer": {
+   "qid": "45",
+   "stem": "有關「肩外俞」穴與「肩中俞」穴之敘述,下列何者錯誤?",
+   "A": "兩個穴位操作上皆需注意,進針過深會導致氣胸",
+   "B": "肩外俞較肩中俞位置高",
+   "C": "肩外俞較肩中俞位置外側",
+   "D": "肩外俞之高度與大杼穴平"
+  },
+  "response": {
+   "A": "仅武载和武中反子代不有一自的名前。",
+   "B": "武载和武中反子代不有丁自的名前。",
+   "C": "武载和武中反子代不有一自的名前。",
+   "D": "武载和武中反子代不有丁自的名前。",
+   "qid": 45,
+   "stem": "尽东武载。代不有反子，已不想见放到犻南。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and nonsensical: it does not reproduce the MCQ stem or the original options, instead returning garbled Chinese text. It fails to extract the question and options as required and does not match the reference.",
+  "ispass": false
+ },
+ "46": {
+  "reference_answer": {
+   "qid": "46",
+   "stem": "有關「秉風」穴之敘述,下列何者錯誤?",
+   "A": "此穴位於易受風邪之處,功在散風舒筋",
+   "B": "脊中線往外約七寸,肩胛骨上際陷中",
+   "C": "手三陽經與足太陽膀胱經之交會穴",
+   "D": "與曲垣、巨骨,並行於肩胛棘上際"
+  },
+  "response": {
+   "A": "常代澛素切的巡场在可六王不克。力制旛気苹行池自",
+   "B": "罅三切巡通右走不克。",
+   "C": "手机一种池天组和贴南巡场苹行的名别。",
+   "D": "。贴布。深池害大。",
+   "qid": 46,
+   "stem": "常代澛素切的做话，了三目名别。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is gibberish and does not correctly extract the multiple-choice question from the provided text: the stem and options are nonsensical, do not match the original question, and no valid answer format is given.",
+  "ispass": false
+ },
+ "47": {
+  "reference_answer": {
+   "qid": "47",
+   "stem": "腕骨、陽谷、養老、少海、臑會、天宗、肩井、肩中俞、天鼎、巨髎、聽會。以上穴位屬於小腸經 者有幾個?",
+   "A": "5",
+   "B": "6",
+   "C": "7",
+   "D": "8"
+  },
+  "response": {
+   "A": "台为截卡有中的會数是一中。",
+   "B": "台为截卡有中的會数是丈中。",
+   "C": "台为截卡有中的會数是三中。",
+   "D": "台为截卡有中的會数是六丁中。",
+   "qid": "47",
+   "stem": "台为截卡，阶座，半天，小浦，讯园，甲南台，主三务，甲南中务，张浦，黄园，合台代天。代见截卡等的會数小相到一丂？"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: it does not extract the original MCQ, replaces the stem and options with unrelated, nonsensical text, and fails to preserve the qid/stem/choices from the source as required. It does not follow the user's instruction to omit answers only if not provided (the original provided choices), so it fails completely.",
+  "ispass": false
+ },
+ "48": {
+  "reference_answer": {
+   "qid": "48",
+   "stem": "根據《針灸科學》,下列何者為與足背太衝穴內外相對的穴位?",
+   "A": "太谿",
+   "B": "陰谷",
+   "C": "湧泉",
+   "D": "命門"
+  },
+  "response": {
+   "A": "太谿",
+   "B": "陰谷",
+   "C": "湧泉",
+   "D": "命門",
+   "qid": "48",
+   "stem": "根據《針灸科學》，下列何者為與足背太衝穴內外相對的穴位？"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer exactly matches the reference: it correctly extracted the qid, stem, and all four options, and appropriately omitted any answer key (as instructed), so it's fully correct and relevant.",
+  "ispass": true
+ },
+ "49": {
+  "reference_answer": {
+   "qid": "49",
+   "stem": "根據《針灸科學》,穴在足內踝上二寸,有兩個腎經的穴道,下列何者正確?",
+   "A": "絕骨、陽交",
+   "B": "復溜、交信",
+   "C": "梁丘、陰市",
+   "D": "陰陵泉、三陰交"
+  },
+  "response": "",
+  "score": 1.0,
+  "feedback": "The generated answer is empty and fails to extract the MCQ from the provided text; it does not return any of the required fields (qid, stem, choices), so it does not meet the task.",
+  "ispass": false
+ },
+ "50": {
+  "reference_answer": {
+   "qid": "50",
+   "stem": "關於內庭穴的敘述,下列何者錯誤?",
+   "A": "配天樞、曲池,治濕熱下痢",
+   "B": "配下關、頰車、地倉、合谷,治三叉神經痛",
+   "C": "穴在足背第二、三趾骨之間,足趾叉縫赤白肉際處",
+   "D": "配大陵、神門、心俞,治精神病"
+  },
+  "response": {
+   "A": "B. 给三右波服。种动子一七分的施宽不允起",
+   "B": "A. 手张右。给丁右波服。种动子一七分的施宽不允起",
+   "C": "A. 手张右。给丁右波服。种动子一七分的施宽不允起",
+   "D": "A. 手张右。给丁右波服。种动子一七分的施宽不允起",
+   "qid": "50",
+   "stem": "笔为制宽输的明的把苹，以行是吧？"
+  },
+  "score": 1.0,
+  "feedback": "Generated answer is irrelevant and nonsensical: it fails to extract the original MCQ (stem and options), replaces them with meaningless text, and does not preserve or omit the answer field per instructions.",
+  "ispass": false
+ },
+ "51": {
+  "reference_answer": {
+   "qid": "51",
+   "stem": "關於胸腹部的胃經穴位,下列敘述何者錯誤?",
+   "A": "大巨穴在石門穴旁開二寸處",
+   "B": "乳根與食竇穴同處於第五肋與第六肋之間",
+   "C": "屋翳在第二肋與第三肋之間,神藏穴旁開二寸",
+   "D": "歸來穴在大赫穴旁開一寸處"
+  },
+  "response": {
+   "A": "大图内在西南台制的分前场。",
+   "B": "机花和飯勣内合一见和三见的不台分。",
+   "C": "復窕在三见和丈见的一医。寳動内在大图场制的分前场。",
+   "D": "载是内在大图场制的分前场制一学。",
+   "qid": "51",
+   "stem": "司为被江紫南的飯座内分，了合见做是一代错姐?。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is gibberish and unrelated to the original MCQ: the stem is corrupted and the options do not match the provided Chinese choices. It fails to extract the question and choices correctly and provides no valid answer field, so it is irrelevant and incorrect.",
+  "ispass": false
+ },
+ "52": {
+  "reference_answer": {
+   "qid": "52",
+   "stem": "關於風池穴,下列敘述何者錯誤?",
+   "A": "風府穴旁開二寸,在頸大肌之外廉,凹陷處是穴",
+   "B": "配內關、太衝,可治高血壓",
+   "C": "為膀胱經、膽經與陽維脈之會穴",
+   "D": "主治中風、暑病、癲癇"
+  },
+  "response": {
+   "A": "台沾崞前氿务操大十的南有安全分。",
+   "B": "手制台沾崞，前加，做区王为體约得。",
+   "C": "为台沾崞，贵沾分，和种加南有安全分。",
+   "D": "任用制台沾崞，涕方。",
+   "qid": 52,
+   "stem": "台为體沾崞，事一条名答一分错姐？"
+  },
+  "score": 1.0,
+  "feedback": "生成的答案與原始題目不相符且內容為無意義文字。題幹與各選項被嚴重扭曲或亂碼，未正確擷取原始題目或選項，完全不符合使用者要求。",
+  "ispass": false
+ },
+ "53": {
+  "reference_answer": {
+   "qid": "53",
+   "stem": "有關「京門」穴之敘述,下列何者錯誤?",
+   "A": "為小腸之募穴",
+   "B": "在腰中夾脊第十二季肋骨端",
+   "C": "斜刺,針入五至八分",
+   "D": "臍上五分,旁開九寸半"
+  },
+  "response": {
+   "A": "為小腸之募穴",
+   "B": "在腰中夾脊第十二季肋骨端",
+   "C": "斜刺，針入五至八分",
+   "D": "臍上五分，旁開九寸半",
+   "qid": "53"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer exactly reproduces the question ID, stem and all options from the original/reference and does not attempt to supply an answer (as required), so it is fully correct and relevant.",
+  "ispass": true
+ },
+ "54": {
+  "reference_answer": {
+   "qid": "54",
+   "stem": "根據《針灸科學》,在膝關節內側屈膝橫紋頭陷中,為肝經何穴?",
+   "A": "陰谷",
+   "B": "陽谷",
+   "C": "曲泉",
+   "D": "委中"
+  },
+  "response": {
+   "A": "秀崯",
+   "B": "首崯",
+   "C": "窋游",
+   "D": "问三医",
+   "qid": "54",
+   "stem": "根據《針灸科學》，在膝關節內側屈膝橫紋頭陷中，為肝經何穴？"
+  },
+  "score": 2.0,
+  "feedback": "The generated answer preserved the qid and stem correctly (relevant), but the answer choices are incorrect/gibberish and do not match the original options. Because the options were corrupted/incorrect, the extraction fails to accurately represent the MCQ.",
+  "ispass": false
+ },
+ "55": {
+  "reference_answer": {
+   "qid": "55",
+   "stem": "有關「然谷」穴之敘述,下列何者錯誤?",
+   "A": "為腎經的郄穴",
+   "B": "別名龍泉",
+   "C": "主治咽痛腫,小腹脹痛上搶胸脅",
+   "D": "位於足部舟狀骨突起下緣"
+  },
+  "response": {
+   "A": "為腎經的郄穴",
+   "B": "別名龍泉",
+   "C": "主治咽痛腫，小腹脹痛上搶胸脅",
+   "D": "位於足部舟狀骨突起下緣",
+   "qid": 55,
+   "stem": "有關「然谷」穴之敘述，下列何者錯誤？"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer matches the reference exactly (all fields present, same stem and options, qid included, no answer provided as required), so it is fully correct and relevant.",
+  "ispass": true
+ },
+ "56": {
+  "reference_answer": {
+   "qid": "56",
+   "stem": "下列何穴不屬於督脈?",
+   "A": "靈道",
+   "B": "靈臺",
+   "C": "神道",
+   "D": "神庭"
+  },
+  "response": {
+   "A": "篆路",
+   "B": "篆机",
+   "C": "甲路",
+   "D": "甲机",
+   "qid": "56",
+   "stem": "带代例不尺组海些?"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: the stem is garbled and the options do not match the original question. It fails to extract the MCQ from the provided text and does not preserve the qid, stem, or choices.",
+  "ispass": false
+ },
+ "57": {
+  "reference_answer": {
+   "qid": "57",
+   "stem": "關於腦戶穴的敘述,下列何者錯誤?",
+   "A": "督脈循頸上行入腦,該穴為脈氣入腦的門戶,故名",
+   "B": "穴在項後,入髮際一寸,大筋內宛宛中",
+   "C": "《素問》云:刺腦戶入腦立死,因內有延髓",
+   "D": "主治癲癇、頭暈、後頸痛、目不明、風眩等"
+  },
+  "response": {
+   "A": "确王名路回天为台对注明的南前，未名。",
+   "B": "维的为条前，入子台一离，天注明内。",
+   "C": "学给对。回的出崺入花崌一离，未注明。",
+   "D": "使用食食台为对注明的安六。",
+   "qid": "57",
+   "stem": "司为花崌维的注明的把答，以利。\n\nA. 确王名路回天为台对注明的南前，未名。\nB. 维的为条前，入子台一离，天注明内。\nC. 学给对。回的出崺入花崌一离，未注明。\nD. 使用食食台为对注明的安六。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is gibberish and does not accurately extract or preserve the original multiple-choice question or choices; it fails to produce the correct stem and options from the input, so it is irrelevant and incorrect.",
+  "ispass": false
+ },
+ "58": {
+  "reference_answer": {
+   "qid": "58",
+   "stem": "龍虎交戰手法的組成,下列敘述何者正確?",
+   "A": "撚轉法和九六數",
+   "B": "提按法和呼吸法",
+   "C": "九六數和提按法",
+   "D": "呼吸法和開闔法"
+  },
+  "response": {
+   "A": "现南武和五六數",
+   "B": "发注武和效飯武",
+   "C": "五六數和发注武",
+   "D": "效飯武和得體武",
+   "qid": 58,
+   "stem": "累渊代歡又的合名，一七至定矩吗王名。"
+  },
+  "score": 2.0,
+  "feedback": "Generated answer is relevant to the task (it attempts to output a MCQ with qid and choices) but the stem and all choices are corrupted/gibberish and do not match the original text; thus it is incorrect and fails to preserve the provided question and options.",
+  "ispass": false
+ },
+ "59": {
+  "reference_answer": {
+   "qid": "59",
+   "stem": "《內經》官針中,何種刺法不歸屬於放血的方法?",
+   "A": "贊刺",
+   "B": "豹文刺",
+   "C": "大瀉刺",
+   "D": "短刺"
+  },
+  "response": {
+   "A": "发沾",
+   "B": "输子沾",
+   "C": "天沾",
+   "D": "终沾",
+   "qid": "59",
+   "stem": "年例组服求中，为籿发的海沾。"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: it provides a different, nonsensical stem and unrelated options rather than extracting the original MCQ about which 刺法 is not a bloodletting method; it does not match the reference and fails to follow the task.",
+  "ispass": false
+ },
+ "60": {
+  "reference_answer": {
+   "qid": "60",
+   "stem": "有關灸法臨床適應症中,下列敘述共有幾項正確?1虛癆 2遺精 3冷哮 4多尿 5痺痛 6 胃痛",
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "response": {
+   "A": "A.3",
+   "B": "B.4",
+   "C": "C.5",
+   "D": "D.6",
+   "qid": "60",
+   "stem": "有關灸法臨床適應症中，下列敘述共有幾項正確？①虛癆　②遺精　③冷哮　④多尿　⑤痺痛　⑥胃痛\n\nA.3\nB.4\nC.5\nD.6"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer correctly extracted the MCQ (qid, stem, and the four choices) matching the reference content. The formatting of option values is slightly redundant (e.g., 'A.3' instead of just '3') but the information is accurate and complete.",
+  "ispass": true
+ },
+ "61": {
+  "reference_answer": {
+   "qid": "61",
+   "stem": "有關拔火罐的適應症,下列敘述共幾項正確?1外傷腰痛、肩背痛 2懷孕四個月以上孕婦腰骶部  3全身皮膚病或局部皮膚損傷 4腹痛、痛經 5局部麻痛 6胃痛、脅痛",
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "response": {
+   "A": "单五三七",
+   "B": "发澟芷的分通览",
+   "C": "一地名对为单五三七",
+   "D": "发澟芷的分通览",
+   "qid": "61",
+   "stem": "发澟芷的分通览。一地名对为单五三七。发澟芷的分通览。一地名对为单五三七。发澟芷的分通览。一地名对为单五三七。发澟芷的分通览。"
+  },
+  "score": 1.0,
+  "feedback": "生成答案與原始題目內容無關且為亂碼/無意義文字，未擷取出題幹或正確選項，未遵從「擷取選擇題」指示，完全不正確。",
+  "ispass": false
+ },
+ "62": {
+  "reference_answer": {
+   "qid": "62",
+   "stem": "有關刺絡拔罐法的敘述,下列共幾項正確?1刺絡拔罐法,它是刺血法、拔罐法和經筋針法的綜合 運用 2重輥法則須出現皮膚塵粒樣出血 3輥刺拔罐法應先在治療部位作上下來回輥刺約二十分 鐘 4輥刺後進行拔罐時間約五至十分鐘 5刺絡拔罐屬於濕杯術 6散刺、叩刺拔罐法的重刺激 是以皮膚表面芝麻點狀出血為度",
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "response": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "qid": "62",
+   "stem": "有關刺絡拔罐法的敘述，下列共幾項正確？①刺絡拔罐法，它是刺血法、拔罐法和經筋針法的綜合運用　②重輥法則須出現皮膚塵粒樣出血　③輥刺拔罐法應先在治療部位作上下來回輥刺約二十分鐘　④輥刺後進行拔罐時間約五至十分鐘　⑤刺絡拔罐屬於濕杯術　⑥散刺、叩刺拔罐法的重刺激是以皮膚表面芝麻點狀出血為度"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer correctly extracted the MCQ stem, qid, and all four answer choices without adding or guessing a correct answer, matching the reference extraction.",
+  "ispass": true
+ },
+ "63": {
+  "reference_answer": {
+   "qid": "63",
+   "stem": "應用刮痧療法時,如遇到「暈刮」現象及處理「暈刮」方式,下列敘述共幾項正確?1「暈刮」通 常是在刮拭過程中出現面色蒼白、噁心和冒冷汗等現象 2繼續強刺激刮拭,以使患者甦醒 3刮 拭過程中出現胸悶、心跳快速等現象可能是「暈刮」的現象 4按壓人中、內關等穴位 5讓患者 飲用熱開水",
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "response": {
+   "A": "B.3",
+   "B": "C.4",
+   "C": "D.5",
+   "ans": "B",
+   "qid": "64",
+   "stem": "應用刮痧療法時，如遇到「暈刮」現象及處理「暈刮」方式，下列敘述共幾項正確？①\"暈刮\"通常是在刮拭過程中出現面色蒼白、噁心和冒冷汗等現象　②繼續強刺激刮拭，以使患者甦醒　③刮拭過程中出現胸悶、心跳快速等現象可能是\"暈刮\"的現象　④按壓人中、內關等穴位　⑤讓患者飲用熱開水"
+  },
+  "score": 2.0,
+  "feedback": "The generated answer is relevant to the prompt (it attempts to extract the MCQ) but contains multiple serious errors: it mislabels the question id (64 vs 63), mangles the answer-option mapping (A/B/C fields contain other option labels and only three options provided instead of four), includes an answer field despite the instruction to omit answers if the original text did not provide one, and thus it incorrectly alters the original content. These mistakes make it incorrect and unreliable.",
+  "ispass": false
+ },
+ "64": {
+  "reference_answer": {
+   "qid": "64",
+   "stem": "有關顏面神經麻痺的治療方法與注意事項何者最不適當?",
+   "A": "若為外感初期宜用瀉法,後期宜疏通經絡或用補法加灸",
+   "B": "局部取穴可選擇風池、陽白、攢竹、迎香、地倉、頰車、翳風等穴",
+   "C": "遠端取穴可選擇健側合谷、雙側足三里、太衝等配穴",
+   "D": "發病急性期宜在局部患處進行電針或電療處置"
+  },
+  "response": {
+   "A": "觉得有台，前日分朝安得有台，不日分朝安得有台",
+   "B": "园区括前走台。种纨括前走台、湜主括前走台、四家括前走台、窑家括前走台、鹌家括前走台",
+   "C": "不分朝四家括前走台",
+   "D": "发安纨有日分朝安得有台",
+   "qid": "64",
+   "stem": "常代秀浦纨的复加有台和啊品是。常代秀浦纨的复加有台咂、常代秀浦纨的啊品咂、常代秀浦纨的得加咂、常代秀浦纨的台品咂"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and nonsensical: it does not extract the MCQ from the given text, the stem and options are garbled/unrelated, and it fails to present the original choices or omit the answer as required.",
+  "ispass": false
+ },
+ "65": {
+  "reference_answer": {
+   "qid": "65",
+   "stem": "下列何穴無法用於氣血兩虛型頭痛的治療?",
+   "A": "膻中",
+   "B": "太衝",
+   "C": "足三里",
+   "D": "三陰交"
+  },
+  "response": {
+   "A": "膻中",
+   "B": "太衝",
+   "C": "足三里",
+   "D": "三陰交",
+   "qid": "66",
+   "stem": "下列何穴無法用於氣血兩虛型頭痛的治療？\n\nA.膻中\nB.太衝\nC.足三里\nD.三陰交"
+  },
+  "score": 4.0,
+  "feedback": "The extracted MCQ matches the original stem and options exactly, and correctly omits an answer. The only issue is the qid was changed from '65' (in the source) to '66' in the generated output; otherwise the extraction is correct.",
+  "ispass": true
+ },
+ "66": {
+  "reference_answer": {
+   "qid": "66",
+   "stem": "下列有關坐骨神經痛的敘述何者錯誤?",
+   "A": "坐骨神經痛的疼痛感經常會放射到大腿後方、小腿後和前外側及足部",
+   "B": "坐骨神經痛的主要疼痛部位與足太陰脾經和足厥陰肝經的循行部位最相關",
+   "C": "治療穴位可選用腎俞、大腸俞、秩邊、環跳、風市、陽陵泉等",
+   "D": "針刺入穴位後可加以行針,但不宜在同一穴位多次重複刺激以免損傷神經"
+  },
+  "response": {
+   "A": "常代种欢飒的明给经可能要南到天山前方和起生区",
+   "B": "常代种欢飒的最京明给手场、吧可起生区的路山和起生区的路山、起生区的路山经可后手场",
+   "C": "欢飒分别　只能选择里勾天路山咏经代的分别",
+   "D": "欢飒分别　只能选择里勾天路山咏经代的分别",
+   "qid": "66",
+   "stem": "常代种欢飒的明给、最连是错度?"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and unintelligible: it does not preserve the original stem or options, contains garbled text, and fails to produce the requested MCQ format matching the provided source. It does not match the reference answer at all.",
+  "ispass": false
+ },
+ "67": {
+  "reference_answer": {
+   "qid": "67",
+   "stem": "針灸治療腕隧道症候群,取下列何穴治療?",
+   "A": "內關",
+   "B": "列缺",
+   "C": "外關",
+   "D": "養老"
+  },
+  "response": {
+   "A": "南台",
+   "B": "莫陃",
+   "C": "割台",
+   "D": "绋服",
+   "qid": "67",
+   "stem": "笔动化明得发含翰代权公囯，卩刪了吗切有截苹起消得）"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: the stem is garbled nonsense, the options do not match the original question (original options were 內關/列缺/外關/養老), and it fails to faithfully extract the MCQ.",
+  "ispass": false
+ },
+ "68": {
+  "reference_answer": {
+   "qid": "68",
+   "stem": "寒流過境後突發急性腰痛,下列治療何者最適當?",
+   "A": "委中穴刺絡放血",
+   "B": "針刺後谿、申脈加拔罐",
+   "C": "針刺足三里、三陰交加電針",
+   "D": "針刺腎俞、大腸俞加針上灸"
+  },
+  "response": {
+   "A": "委中穴刺絡放血",
+   "B": "針刺後谿、申脈加拔罐",
+   "C": "針刺足三里、三陰交加電針",
+   "D": "針刺腎俞、大腸俞加針上灸",
+   "qid": "69",
+   "stem": "寒流過境後突發急性腰痛，下列治療何者最適當？"
+  },
+  "score": 3.0,
+  "feedback": "The generated MCQ correctly extracted the stem and options and omitted an answer (as required), but it mislabels the question ID as '69' instead of the original '68', so it's not fully accurate.",
+  "ispass": false
+ },
+ "69": {
+  "reference_answer": {
+   "qid": "69",
+   "stem": "食用海鮮後誘發皮膚過敏,蕁麻疹發作,針灸治療應選下列何穴?",
+   "A": "足三里、三陰交",
+   "B": "曲池、血海",
+   "C": "豐隆、陰陵泉",
+   "D": "外關、內關"
+  },
+  "response": "",
+  "score": 1.0,
+  "feedback": "Generated answer is empty/missing; it fails to extract the MCQ from the provided text, so it is not relevant or correct.",
+  "ispass": false
+ },
+ "70": {
+  "reference_answer": {
+   "qid": "70",
+   "stem": "以針灸治療牙痛時,下列敘述共幾項正確?1先針痛側合谷穴,針斜向上而刺入皮膚 2無法止痛 時加內庭、下關、頰車、耳門 3熬夜牙痛用針灸之外加藥物較佳 4合谷穴採雀啄術",
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "response": {
+   "A": "A.1",
+   "B": "B.2",
+   "C": "C.3",
+   "D": "D.4",
+   "qid": "70",
+   "stem": "以針灸治療牙痛時，下列敘述共幾項正確？①先針痛側合谷穴，針斜向上而刺入皮膚　②無法止痛時加內庭、下關、頰車、耳門　③熬夜牙痛用針灸之外加藥物較佳　④合谷穴採雀啄術"
+  },
+  "score": 5.0,
+  "feedback": "The generated answer correctly extracted the MCQ stem, qid, and all four options from the source. It did not invent or assert a correct answer (no separate answer field), satisfying the instruction. Minor formatting redundancy in option values (e.g., 'A.1' vs '1') does not affect correctness.",
+  "ispass": true
+ },
+ "71": {
+  "reference_answer": {
+   "qid": "71",
+   "stem": "呼吸照護病房中一位90歲患者,因多日腹瀉出現脫肛現象,會診中醫,下列有關治療之敘述,共有 幾項正確?1可針長強穴 2可灸百會穴 3可隔鹽灸神闕穴 4可選膀胱經的合穴承山穴",
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "response": {
+   "A": "A.1",
+   "B": "B.2",
+   "C": "C.3",
+   "D": "D.4",
+   "qid": "71",
+   "stem": "呼吸照護病房中一位90歲患者，因多日腹瀉出現脫肛現象，會診中醫，下列有關治療之敘述，共有幾項正確？①可針長強穴　②可灸百會穴　③可隔鹽灸神闕穴　④可選膀胱經的合穴承山穴"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer correctly extracted the MCQ (qid, stem, and choices) and did not invent or include a correct-answer field despite the original not providing an answer; minor formatting differences (e.g., \"A.1\" vs \"1\") do not affect correctness.",
+  "ispass": true
+ },
+ "72": {
+  "reference_answer": {
+   "qid": "72",
+   "stem": "預防大腸癌應養成規律排便習慣,改善便秘的穴位中,下列敘述共幾項正確?1天樞穴屬胃經,是 大腸會穴 2老人虛秘可以選用氣海穴和關元穴 3照海穴屬腎經,可調理臟腑 4支溝穴可清利 三焦氣機",
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "response": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "qid": "72",
+   "stem": "預防大腸癌應養成規律排便習慣，改善便秘的穴位中，下列敘述共幾項正確？①天樞穴屬胃經，是大腸會穴　②老人虛秘可以選用氣海穴和關元穴　③照海穴屬腎經，可調理臟腑　④支溝穴可清利三焦氣機"
+  },
+  "score": 5.0,
+  "feedback": "生成答案完整擷取了題號、題幹與選項，且沒有推測或加入正確答案（符合「若原始文字沒有提供答案則省略答案欄位」的要求），與參考答案內容一致，故評為最高分。",
+  "ispass": true
+ },
+ "73": {
+  "reference_answer": {
+   "qid": "73",
+   "stem": "32歲婦女懷孕第一胎,懷孕週數14週,經常孕吐而來求診,下列何者為妊娠嘔吐的特效穴?",
+   "A": "中脘",
+   "B": "足三里",
+   "C": "公孫",
+   "D": "關元"
+  },
+  "response": {
+   "A": "中脘",
+   "B": "足三里",
+   "C": "公孫",
+   "D": "關元",
+   "qid": 1,
+   "stem": "73.32歲婦女懷孕第一胎，懷孕週數14週，經常孕吐而來求診，下列何者為妊娠嘔吐的特效穴？"
+  },
+  "score": 4.0,
+  "feedback": "生成答案與參考內容在題幹與選項上完全一致，且正確省略答案欄；唯一小差別是 qid 值（參考為 '73'，生成為 1），故給予略低於滿分的評分。",
+  "ispass": true
+ },
+ "74": {
+  "reference_answer": {
+   "qid": "74",
+   "stem": "45歲女性患者乾咳,痰少,夜咳,痰中帶血絲,掌心胸口微熱,顴紅,脈細數。若用針灸處方,下 列那一組穴位比較適當?",
+   "A": "豐隆、大杼",
+   "B": "足三里、大椎",
+   "C": "尺澤、照海",
+   "D": "列缺、陽陵泉"
+  },
+  "response": {
+   "A": "豐隆、大杼",
+   "B": "足三里、大椎",
+   "C": "尺澤、照海",
+   "D": "列缺、陽陵泉",
+   "qid": 1,
+   "stem": "若用針灸處方，下列那一組穴位比較適當？"
+  },
+  "score": 2.0,
+  "feedback": "The generated MCQ omitted the clinical stem details (age and symptoms) from the original text and changed the qid (should be '74'), making the question incomplete and less useful; it did correctly include the answer choices and omit the answer key, but the loss of critical context is a significant error.",
+  "ispass": false
+ },
+ "75": {
+  "reference_answer": {
+   "qid": "75",
+   "stem": "下列那一組穴位最適合治療風熱感冒?",
+   "A": "魚際、後谿、三陰交",
+   "B": "魚際、曲池、外關",
+   "C": "尺澤、足三里、大陵",
+   "D": "尺澤、復溜、後谿"
+  },
+  "response": {
+   "A": "A.羅朲、三园、不分名别",
+   "B": "B.羅朲、曹度、夜台訽工",
+   "C": "十园、起三七八、大勒别",
+   "D": "十园、曹汉、不分名别",
+   "ans": "",
+   "qid": 1,
+   "stem": "笭小三分台訽工、六度天、南种名别"
+  },
+  "score": 1.0,
+  "feedback": "The generated answer is irrelevant and incorrect: it does not extract the original question or options (stem and choices are garbled), the qid is wrong (1 instead of 75), and it includes an 'ans' field (even if empty) when the instruction required omitting the answer field if none was provided.",
+  "ispass": false
+ },
+ "76": {
+  "reference_answer": {
+   "qid": "76",
+   "stem": "治療嘔血、衄血,下列那一經穴最不適當?",
+   "A": "孔最",
+   "B": "陰郄",
+   "C": "郄門",
+   "D": "內關"
+  },
+  "response": {
+   "A": "A. 孔最",
+   "B": "B. 陰郄",
+   "C": "C. 郄門",
+   "D": "D. 內關",
+   "ans": "",
+   "qid": "76",
+   "stem": "經年殏飯，芫加右，芫龙王，代码的经分已一中其前路度有事为一台经分。"
+  },
+  "score": 2.0,
+  "feedback": "The extraction is partly relevant (qid and options present) but incorrect: the stem is garbled/nonsensical and does not match the original question; the options include redundant labels (\"A. 孔最\" etc. rather than just the choice text); and an empty 'ans' field is included instead of omitting the answer field as instructed.",
+  "ispass": false
+ },
+ "77": {
+  "reference_answer": {
+   "qid": "77",
+   "stem": "患者長期睡眠不佳,心中懊憹,脘悶噫氣、噯腐吞酸,苔厚膩,脈滑。治療選擇心經及背俞外,會 再選擇那一組經脈之穴位?",
+   "A": "手少陽經、手厥陰經",
+   "B": "足陽明經、足太陰經",
+   "C": "足厥陰經、足少陰經",
+   "D": "手少陽經、手陽明經"
+  },
+  "response": {
+   "A": "足陽明經、足太陰經",
+   "B": "足厥陰經、足少陰經",
+   "C": "手少陽經、手陽明經",
+   "D": "手少陽經、手厥陰經",
+   "qid": "78",
+   "stem": "治療選擇心經及背俞外，會再選擇那一組經脈之穴位？"
+  },
+  "score": 2.0,
+  "feedback": "The generated answer is relevant (it attempts to extract the MCQ) but contains multiple errors: it changes the qid (78 instead of 77), it omits most of the original stem (drops the patient details), and it reorders/mislabels the answer choices rather than preserving the original A–D mapping. These mistakes make the extraction incorrect.",
+  "ispass": false
+ },
+ "78": {
+  "reference_answer": {
+   "qid": "78",
+   "stem": "有關陽痿針灸治療的敘述,下列何者正確?1陽痿主要與肝脾腎相關,可取任脈與足三陰經交會穴 關元和足三陰交會穴三陰交治療 2選取肝經原穴與俞穴:太衝,可以達到疏肝理氣的作用 3可 選用任脈與足三陰經的會穴,也是膀胱經的募穴:中極;中極及曲骨兩穴合用具有清利濕熱,培元 理氣的作用 4蠡溝是肝經之絡穴,別走少陽膽經,也有疏肝理氣的作用",
+   "A": "僅123",
+   "B": "僅134",
+   "C": "僅234",
+   "D": "1234"
+  },
+  "response": {
+   "A": "寸演窑分和角五分右子的合明，、寸演窑分和角五分右子的合明",
+   "B": "选提寸演分元、窑分元：天难，做可到暴寸演物性的办",
+   "C": "选提寸演分元和角五分右子：東图，、東图做代有终利给种海的办",
+   "D": "飞形是寸演分元，、寸演窑分和角五分右子的合明",
+   "ans": "A",
+   "qid": 78,
+   "stem": "常是大海参代难化有亡的合明，了三一条、寸演窑分和角五分右子的合明，、寸演窑分和角五分右子的合明。"
+  },
+  "score": 1.0,
+  "feedback": "生成答案與使用者提供的題目毫無對應，內容為亂碼/無意義文字且未按照要求擷取出原題的選擇題格式，還錯誤地包含一個推測的答案欄（原指示若無答案應省略），因此完全不相關且不正確。",
+  "ispass": false
+ },
+ "79": {
+  "reference_answer": {
+   "qid": "79",
+   "stem": "有關針灸治療痛經的敘述,下列何者錯誤?",
+   "A": "八髎穴是治療腰痛與盆腔疾病重要穴位",
+   "B": "上髎穴是膀胱經與腎經交會穴",
+   "C": "若失血較少時,可用艾柱隔薑灸神闕、隱白、腰陽關",
+   "D": "陽陵泉為膽經合穴,太衝為肝經原穴,兩者配合可以疏肝利膽、理氣調經"
+  },
+  "response": {
+   "A": "B. 上髎穴是膀胱經與腎經交會穴",
+   "B": "C. 若失血較少時，可用艾柱隔薑灸神闕、隱白、腰陽關",
+   "C": "D. 陽陵泉為膽經合穴，太衝為肝經原穴，兩者配合可以疏肝利膽、理氣調經",
+   "D": "A. 八髎穴是治療腰痛與盆腔疾病重要穴位",
+   "qid": "79",
+   "stem": "有關針灸治療痛經的敘述，下列何者錯誤？"
+  },
+  "score": 3.0,
+  "feedback": "The generated answer is relevant and preserves all original option content, but it mislabels the options (each option text is prefixed with a different letter and the A–D keys are rotated), which makes the MCQ formatting incorrect. No correct answer was added (which matches the instruction), but the label/option mismatch is a significant error.",
+  "ispass": false
+ },
+ "80": {
+  "reference_answer": {
+   "qid": "80",
+   "stem": "有關針灸治療小兒麻痺後遺症之敘述,下列何者錯誤?",
+   "A": "相當於現代醫學的「脊髓灰質炎」",
+   "B": "腕下垂可加針外關、陽谷、中泉",
+   "C": "舉肩困難可配肩井、肩髎、巨骨、天宗",
+   "D": "如肺熱所致,可加列缺、合谷,宣肺解表,可加風池為足太陽和陽維之會,散風解表"
+  },
+  "response": {
+   "A": "相當於現代醫學的「脊髓灰質炎」",
+   "B": "腕下垂可加針外關、陽谷、中泉",
+   "C": "舉肩困難可配肩井、肩髎、巨骨、天宗",
+   "D": "如肺熱所致，可加列缺、合谷，宣肺解表，可加風池為足太陽和陽維之會，散風解表",
+   "qid": "80",
+   "stem": "有關針灸治療小兒麻痺後遺症之敘述，下列何者錯誤？"
+  },
+  "score": 5.0,
+  "feedback": "Generated answer correctly extracts the MCQ (qid, stem, options A–D) exactly as in the source, omits any answer field as required, and matches the provided reference.",
+  "ispass": true
+ }
+}

@@ -17,7 +17,7 @@ from llama_index.core.prompts.base import PromptTemplate
 
 # setup
 SOURCE_DIR = os.path.join('..', '..', 'data')
-DEST_DIR= os.path.join('..', '..', 'data', 'question_from_context')
+DEST_DIR= os.path.join('question_from_context')
 os.makedirs(DEST_DIR, exist_ok=True)
 MODEL_NAME = "gpt-5-mini"
 num_questions_per_chunk = 1

@@ -9,3 +9,4 @@ notebooks/questions/*
 notebooks/data/*
 notebooks/parsed_txt/*
 mpp/*
+*storage*

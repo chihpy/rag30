@@ -10,3 +10,4 @@ notebooks/data/*
 notebooks/parsed_txt/*
 mpp/*
 *storage*
+days/*/*/temp

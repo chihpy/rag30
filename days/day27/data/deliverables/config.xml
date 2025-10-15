@@ -1,0 +1,15 @@
+<View>
+  <ParagraphLabels name="entity_slot" toName="dialogue">
+    <Label value="context_highlight" />
+    <Label value="error_highlight" />
+  </ParagraphLabels>
+  <Paragraphs name="dialogue" value="$RagResponse" layout="dialogue" />
+    <Choices name="intent" toName="dialogue"
+         choice="single" showInLine="true">
+        <Choice value="參考資料不完整"/>
+        <Choice value="合成回答失控"/>
+        <Choice value="正確無問題"/>
+    </Choices>
+  <Header value="Provide response"/>
+  <TextArea name="response" toName="response" rows="4" editable="true" maxSubmissions="1"/>
+</View>

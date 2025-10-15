@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#ADD8E6", "id": "_done", "label": "_done", "shape": "box", "title": null}, {"color": "#FFA07A", "id": "StopEvent", "label": "StopEvent", "shape": "ellipse", "title": null}, {"color": "#ADD8E6", "id": "merge_context", "label": "merge_context", "shape": "box", "title": null}, {"color": "#90EE90", "id": "ContextMergeEvent", "label": "ContextMergeEvent", "shape": "ellipse", "title": null}, {"color": "#90EE90", "id": "QueryEvent", "label": "QueryEvent", "shape": "ellipse", "title": null}, {"color": "#ADD8E6", "id": "query2keywords", "label": "query2keywords", "shape": "box", "title": null}, {"color": "#E27AFF", "id": "StartEvent", "label": "StartEvent", "shape": "ellipse", "title": null}, {"color": "#90EE90", "id": "KeywordsEvent", "label": "KeywordsEvent", "shape": "ellipse", "title": null}, {"color": "#ADD8E6", "id": "query_result", "label": "query_result", "shape": "box", "title": null}, {"color": "#ADD8E6", "id": "retrieval_evaluator", "label": "retrieval_evaluator", "shape": "box", "title": null}, {"color": "#90EE90", "id": "RetrieveEvent", "label": "RetrieveEvent", "shape": "ellipse", "title": null}, {"color": "#90EE90", "id": "QueryTransformEvent", "label": "QueryTransformEvent", "shape": "ellipse", "title": null}, {"color": "#ADD8E6", "id": "retrieval_filter", "label": "retrieval_filter", "shape": "box", "title": null}, {"color": "#90EE90", "id": "TavilyRetrieveEvent", "label": "TavilyRetrieveEvent", "shape": "ellipse", "title": null}, {"color": "#ADD8E6", "id": "tavily_search", "label": "tavily_search", "shape": "box", "title": null}, {"color": "#90EE90", "id": "TavilyEvent", "label": "TavilyEvent", "shape": "ellipse", "title": null}, {"color": "#ADD8E6", "id": "transform_query", "label": "transform_query", "shape": "box", "title": null}, {"color": "#ADD8E6", "id": "wiki_search", "label": "wiki_search", "shape": "box", "title": null}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "StopEvent", "to": "_done"}, {"arrows": "to", "from": "merge_context", "to": "QueryEvent"}, {"arrows": "to", "from": "ContextMergeEvent", "to": "merge_context"}, {"arrows": "to", "from": "query2keywords", "to": "KeywordsEvent"}, {"arrows": "to", "from": "StartEvent", "to": "query2keywords"}, {"arrows": "to", "from": "query_result", "to": "StopEvent"}, {"arrows": "to", "from": "QueryEvent", "to": "query_result"}, {"arrows": "to", "from": "retrieval_evaluator", "to": "QueryEvent"}, {"arrows": "to", "from": "retrieval_evaluator", "to": "QueryTransformEvent"}, {"arrows": "to", "from": "RetrieveEvent", "to": "retrieval_evaluator"}, {"arrows": "to", "from": "retrieval_filter", "to": "ContextMergeEvent"}, {"arrows": "to", "from": "TavilyRetrieveEvent", "to": "retrieval_filter"}, {"arrows": "to", "from": "tavily_search", "to": "TavilyRetrieveEvent"}, {"arrows": "to", "from": "TavilyEvent", "to": "tavily_search"}, {"arrows": "to", "from": "transform_query", "to": "TavilyEvent"}, {"arrows": "to", "from": "QueryTransformEvent", "to": "transform_query"}, {"arrows": "to", "from": "wiki_search", "to": "RetrieveEvent"}, {"arrows": "to", "from": "KeywordsEvent", "to": "wiki_search"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

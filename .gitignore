@@ -14,3 +14,4 @@ days/*/*/temp
 *mcq_db*
 *cache*
 *.json
+*temp*

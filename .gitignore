@@ -12,3 +12,5 @@ mpp/*
 *storage*
 days/*/*/temp
 *mcq_db*
+*cache*
+*.json
